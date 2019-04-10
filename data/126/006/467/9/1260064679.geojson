@@ -1,0 +1,77 @@
+{
+  "id": 1260064679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.64106,7.70291,134.64106,7.70291",
+    "geom:latitude":7.70291,
+    "geom:longitude":134.64106,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ngerbau Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":21,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559732,
+    "gn:latitude":7.70291,
+    "gn:longitude":134.64106,
+    "gn:modification_date":"2011-03-09",
+    "gn:name":"Ngerbau Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pkulrengerelong",
+        "Galapao",
+        "Ngarabau",
+        "Pkulrengereiong Point",
+        "Aracalong",
+        "Ngarbau",
+        "Delebog",
+        "Ngerbau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676479
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559732
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"2e11036926cfcb84a20b825240104b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1260064679,
+            "region_id":85676479
+        }
+    ],
+    "wof:id":1260064679,
+    "wof:lastmodified":1537683190,
+    "wof:name":"Ngerbau Hamlet",
+    "wof:parent_id":85676479,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.64106,
+    7.70291,
+    134.64106,
+    7.70291
+],
+  "geometry": {"coordinates":[134.64106000000001,7.70291],"type":"Point"}
+}

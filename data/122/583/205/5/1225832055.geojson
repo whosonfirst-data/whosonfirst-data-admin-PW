@@ -1,0 +1,74 @@
+{
+  "id": 1225832055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.60375,7.45304,134.60375,7.45304",
+    "geom:latitude":7.45304,
+    "geom:longitude":134.60375,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ngerngesang Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559670,
+    "gn:latitude":7.45304,
+    "gn:longitude":134.60375,
+    "gn:modification_date":"2011-04-04",
+    "gn:name":"Ngerngesang Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngarakesou",
+        "Ngarakosou",
+        "Gaiakasan",
+        "Garakasan",
+        "Ngargeso",
+        "Ngerngesang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559670
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"f84470426da2be67829c713625569fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1225832055,
+            "region_id":85676493
+        }
+    ],
+    "wof:id":1225832055,
+    "wof:lastmodified":1537683190,
+    "wof:name":"Ngerngesang Hamlet",
+    "wof:parent_id":85676493,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.60375,
+    7.45304,
+    134.60375,
+    7.45304
+],
+  "geometry": {"coordinates":[134.60374999999999,7.45304],"type":"Point"}
+}

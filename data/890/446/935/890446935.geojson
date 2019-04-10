@@ -1,0 +1,65 @@
+{
+  "id": 890446935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.622,7.558,134.622,7.558",
+    "geom:latitude":7.558,
+    "geom:longitude":134.622,
+    "gn:country":"PW",
+    "gn:fcode":"RGN",
+    "gn:pop":223,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Babeldaob EastNorthEast - Ngiwal State",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701415,
+        "gp:id":29389612,
+        "qs:id":697877
+    },
+    "wof:country":"PW",
+    "wof:created":1469052572,
+    "wof:geomhash":"0549008a43bc64d4a897855ba2b02ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":890446935,
+            "region_id":85676503
+        }
+    ],
+    "wof:id":890446935,
+    "wof:lastmodified":1505343614,
+    "wof:name":"Babeldaob EastNorthEast - Ngiwal State",
+    "wof:parent_id":85676503,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.622,
+    7.558,
+    134.622,
+    7.558
+],
+  "geometry": {"coordinates":[134.62200000000001,7.558],"type":"Point"}
+}

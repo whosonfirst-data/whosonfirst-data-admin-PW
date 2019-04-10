@@ -1,0 +1,70 @@
+{
+  "id": 1293271423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.50268,7.52253,134.50268,7.52253",
+    "geom:latitude":7.52253,
+    "geom:longitude":134.50268,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Ngermetengel Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":10,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559673,
+    "gn:latitude":7.52253,
+    "gn:longitude":134.50268,
+    "gn:modification_date":"2011-03-27",
+    "gn:name":"Ngermetengel Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngeremlengui",
+        "Almonogui",
+        "Arumonogui",
+        "Ngaremetengel",
+        "Ngermetengel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559673
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"618aa334788267d620c55a628a0109bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293271423,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293271423,
+    "wof:lastmodified":1537683190,
+    "wof:name":"Ngermetengel Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.50268,
+    7.52253,
+    134.50268,
+    7.52253
+],
+  "geometry": {"coordinates":[134.50268,7.52253],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210012107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.63587,7.67063,134.63587,7.67063",
+    "geom:latitude":7.67063,
+    "geom:longitude":134.63587,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chol Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":23,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037733,
+    "gn:latitude":7.67063,
+    "gn:longitude":134.63587,
+    "gn:modification_date":"2011-03-09",
+    "gn:name":"Chol Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Choll",
+        "Acholl",
+        "Agol",
+        "Akuro",
+        "Roll",
+        "A Gol",
+        "Akoru",
+        "Gol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037733,
+        "wk:page":"Choll"
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"d912a67aec1994c8b6e5fe73b6fd4448",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1210012107,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1210012107,
+    "wof:lastmodified":1537683192,
+    "wof:name":"Chol Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.63586999999998,
+    7.67063,
+    134.63586999999998,
+    7.67063
+],
+  "geometry": {"coordinates":[134.63586999999998,7.67063],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343253749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.6148,7.50442,134.6148,7.50442",
+    "geom:latitude":7.50442,
+    "geom:longitude":134.6148,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ertong Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559635,
+    "gn:latitude":7.50442,
+    "gn:longitude":134.6148,
+    "gn:modification_date":"2011-03-10",
+    "gn:name":"Ertong Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559635
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"4b723eeb1ea8f8d8d3646fe481eb5fde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1343253749,
+            "region_id":85676471
+        }
+    ],
+    "wof:id":1343253749,
+    "wof:lastmodified":1537042855,
+    "wof:name":"Ertong Hamlet",
+    "wof:parent_id":85676471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.6148,
+    7.50442,
+    134.6148,
+    7.50442
+],
+  "geometry": {"coordinates":[134.6148,7.50442],"type":"Point"}
+}

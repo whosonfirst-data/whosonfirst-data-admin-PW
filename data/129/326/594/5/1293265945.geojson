@@ -1,0 +1,79 @@
+{
+  "id": 1293265945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.63612,7.55456,134.63612,7.55456",
+    "geom:latitude":7.55456,
+    "geom:longitude":134.63612,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ngerkeai",
+    "gn:country_code":"PW",
+    "gn:dem":17,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":4038014,
+    "gn:latitude":7.55456,
+    "gn:longitude":134.63612,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ngerkeai",
+    "gn:population":223,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngiwal",
+        "Ogiwal",
+        "Ngerecheluk",
+        "Karaeru",
+        "Ngaregeluj",
+        "Ngermechau",
+        "Ngaragoluuk",
+        "Ogiwaru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038014
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"c327927d335cb4a7d4513f6f8d7978db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1293265945,
+            "region_id":85676503
+        }
+    ],
+    "wof:id":1293265945,
+    "wof:lastmodified":1537683193,
+    "wof:name":"Ngerkeai",
+    "wof:parent_id":85676503,
+    "wof:placetype":"locality",
+    "wof:population":223,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.63612,
+    7.55456,
+    134.63612,
+    7.55456
+],
+  "geometry": {"coordinates":[134.63612000000001,7.55456],"type":"Point"}
+}

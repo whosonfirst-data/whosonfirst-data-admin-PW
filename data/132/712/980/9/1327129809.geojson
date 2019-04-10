@@ -1,0 +1,71 @@
+{
+  "id": 1327129809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.45289,7.34661,134.45289,7.34661",
+    "geom:latitude":7.34661,
+    "geom:longitude":134.45289,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Echang Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":24,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559444,
+    "gn:latitude":7.34661,
+    "gn:longitude":134.45289,
+    "gn:modification_date":"2011-04-02",
+    "gn:name":"Echang Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tobi Islanders Village",
+        "Eang",
+        "Sonsorol Islanders Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559444
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"1816c37b525d00e944321ccacaed1ff1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1327129809,
+            "region_id":85676467
+        }
+    ],
+    "wof:id":1327129809,
+    "wof:lastmodified":1537683187,
+    "wof:name":"Echang Hamlet",
+    "wof:parent_id":85676467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.45289,
+    7.34661,
+    134.45289,
+    7.34661
+],
+  "geometry": {"coordinates":[134.45289,7.34661],"type":"Point"}
+}

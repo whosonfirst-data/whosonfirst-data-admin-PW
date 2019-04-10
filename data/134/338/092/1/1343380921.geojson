@@ -1,0 +1,83 @@
+{
+  "id": 1343380921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.63885,7.63575,134.63885,7.63575",
+    "geom:latitude":7.63575,
+    "geom:longitude":134.63885,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Chelab Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559914,
+    "gn:latitude":7.63575,
+    "gn:longitude":134.63885,
+    "gn:modification_date":"2011-03-09",
+    "gn:name":"Chelab Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yalap",
+        "Garurudo",
+        "Aiokako-suid\u014d",
+        "Akarappu",
+        "Gaysan",
+        "Gabokkudo",
+        "Akalak",
+        "Rallap",
+        "Achelap",
+        "Ralap",
+        "Geysan",
+        "Chelab",
+        "Galap",
+        "Elab"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676475
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559914,
+        "wk:page":"Elab"
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"261617931d2d56874fa4a432fc1dd3dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1343380921,
+            "region_id":85676475
+        }
+    ],
+    "wof:id":1343380921,
+    "wof:lastmodified":1537683192,
+    "wof:name":"Chelab Hamlet",
+    "wof:parent_id":85676475,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.63885,
+    7.63575,
+    134.63885,
+    7.63575
+],
+  "geometry": {"coordinates":[134.63884999999999,7.63575],"type":"Point"}
+}

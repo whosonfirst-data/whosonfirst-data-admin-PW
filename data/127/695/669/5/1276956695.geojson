@@ -1,0 +1,68 @@
+{
+  "id": 1276956695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.48562,7.48826,134.48562,7.48826",
+    "geom:latitude":7.48826,
+    "geom:longitude":134.48562,
+    "gn:admin1_code":"11.0",
+    "gn:asciiname":"Ngereklmadel",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":40,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1559820,
+    "gn:latitude":7.48826,
+    "gn:longitude":134.48562,
+    "gn:modification_date":"2011-03-26",
+    "gn:name":"Ngereklmadel",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngedbang",
+        "Madarabaye",
+        "Madarabae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559820
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"c6790b6083f82be65021246e9f8c57a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276956695,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276956695,
+    "wof:lastmodified":1537683191,
+    "wof:name":"Ngereklmadel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.48561999999998,
+    7.48826,
+    134.48561999999998,
+    7.48826
+],
+  "geometry": {"coordinates":[134.48561999999998,7.48826],"type":"Point"}
+}

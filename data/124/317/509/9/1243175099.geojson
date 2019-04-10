@@ -1,0 +1,70 @@
+{
+  "id": 1243175099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.55946,7.35985,134.55946,7.35985",
+    "geom:latitude":7.35985,
+    "geom:longitude":134.55946,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Airai Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":16,
+    "gn:elevation":"15.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559962,
+    "gn:latitude":7.35985,
+    "gn:longitude":134.55946,
+    "gn:modification_date":"2011-04-01",
+    "gn:name":"Airai Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Irrai",
+        "A Irai",
+        "Airrai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559962
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"bb48b663efb553f279f7c30c77b07013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1243175099,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243175099,
+    "wof:lastmodified":1537683192,
+    "wof:name":"Airai Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.55946,
+    7.35985,
+    134.55946,
+    7.35985
+],
+  "geometry": {"coordinates":[134.55946,7.35985],"type":"Point"}
+}

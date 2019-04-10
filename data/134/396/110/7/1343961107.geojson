@@ -1,0 +1,71 @@
+{
+  "id": 1343961107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.53576,7.35412,134.53576,7.35412",
+    "geom:latitude":7.35412,
+    "geom:longitude":134.53576,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngersung Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":19,
+    "gn:elevation":"13.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4038109,
+    "gn:latitude":7.35412,
+    "gn:longitude":134.53576,
+    "gn:modification_date":"2011-04-06",
+    "gn:name":"Ngersung Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngorsum",
+        "Garusuun",
+        "Ngarsung",
+        "Garasuun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038109
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"4648514511e53fa6ab500b9044c0a3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1343961107,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343961107,
+    "wof:lastmodified":1537683194,
+    "wof:name":"Ngersung Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.53576,
+    7.35412,
+    134.53576,
+    7.35412
+],
+  "geometry": {"coordinates":[134.53576000000001,7.35412],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243356157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.44693,7.35133,134.44693,7.35133",
+    "geom:latitude":7.35133,
+    "geom:longitude":134.44693,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Echol Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":15,
+    "gn:elevation":"6.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559482,
+    "gn:latitude":7.35133,
+    "gn:longitude":134.44693,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Echol Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Eholl",
+        "Gegol",
+        "Eeyakoru",
+        "Chechol",
+        "Eeyahoru",
+        "Euakor",
+        "Echol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559482
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"bdcb2c1bf168bae40e3fbbd911d86032",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1243356157,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243356157,
+    "wof:lastmodified":1537683188,
+    "wof:name":"Echol Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.44693,
+    7.35133,
+    134.44693,
+    7.35133
+],
+  "geometry": {"coordinates":[134.44693000000001,7.35133],"type":"Point"}
+}

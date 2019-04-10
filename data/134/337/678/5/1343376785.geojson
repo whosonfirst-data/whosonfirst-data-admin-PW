@@ -1,0 +1,66 @@
+{
+  "id": 1343376785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.50616,7.45743,134.50616,7.45743",
+    "geom:latitude":7.45743,
+    "geom:longitude":134.50616,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Elauesachel Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":34,
+    "gn:elevation":"30.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4037770,
+    "gn:latitude":7.45743,
+    "gn:longitude":134.50616,
+    "gn:modification_date":"2011-03-26",
+    "gn:name":"Elauesachel Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676443
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4037770
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"55330118a60dfd133dd368ece7ca07ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1343376785,
+            "region_id":85676443
+        }
+    ],
+    "wof:id":1343376785,
+    "wof:lastmodified":1536865624,
+    "wof:name":"Elauesachel Hamlet",
+    "wof:parent_id":85676443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.50616000000002,
+    7.45743,
+    134.50616000000002,
+    7.45743
+],
+  "geometry": {"coordinates":[134.50616000000002,7.45743],"type":"Point"}
+}

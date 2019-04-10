@@ -1,0 +1,71 @@
+{
+  "id": 890450169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.622,7.503,134.622,7.503",
+    "geom:latitude":7.503,
+    "geom:longitude":134.622,
+    "gn:country":"PW",
+    "gn:fcode":"ISLS",
+    "gn:pop":19907,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:pau_x_preferred":[
+        "Belau"
+    ],
+    "name:unk_x_variant":[
+        "Punlog"
+    ],
+    "qs:name":"Palau Islands",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559581,
+        "gp:id":29389597,
+        "qs:id":85332
+    },
+    "wof:country":"PW",
+    "wof:created":1469052728,
+    "wof:geomhash":"c79d2dd8951dd5a53a4c696f5da50eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":890450169,
+            "region_id":85676471
+        }
+    ],
+    "wof:id":890450169,
+    "wof:lastmodified":1505343632,
+    "wof:name":"Palau Islands",
+    "wof:parent_id":85676471,
+    "wof:placetype":"locality",
+    "wof:population":19907,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.622,
+    7.503,
+    134.622,
+    7.503
+],
+  "geometry": {"coordinates":[134.62200000000001,7.503],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343651343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.63054,7.6957,134.63054,7.6957",
+    "geom:latitude":7.6957,
+    "geom:longitude":134.63054,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Mengellang",
+    "gn:country_code":"PW",
+    "gn:dem":59,
+    "gn:elevation":"53.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":4038170,
+    "gn:latitude":7.6957,
+    "gn:longitude":134.63054,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Mengellang",
+    "gn:population":488,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayungur",
+        "Ngeiungel",
+        "Ononguru"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038170,
+        "wk:page":"Mengellang"
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"2ddaa36b0185dc930b4f3912872b67c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1343651343,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343651343,
+    "wof:lastmodified":1537683194,
+    "wof:name":"Mengellang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":488,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.63054,
+    7.6957,
+    134.63054,
+    7.6957
+],
+  "geometry": {"coordinates":[134.63054,7.6957],"type":"Point"}
+}

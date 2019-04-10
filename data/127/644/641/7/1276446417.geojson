@@ -1,0 +1,68 @@
+{
+  "id": 1276446417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.47678,7.44613,134.47678,7.44613",
+    "geom:latitude":7.44613,
+    "geom:longitude":134.47678,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ngchemiangel",
+    "gn:country_code":"PW",
+    "gn:dem":20,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7732276,
+    "gn:latitude":7.44613,
+    "gn:longitude":134.47678,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ngchemiangel",
+    "gn:population":270,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732276
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"c8ac6146899ce59ee957d2e8c461be6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1276446417,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276446417,
+    "wof:lastmodified":1536625092,
+    "wof:name":"Ngchemiangel",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":270,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.47678,
+    7.44613,
+    134.47678,
+    7.44613
+],
+  "geometry": {"coordinates":[134.47677999999999,7.44613],"type":"Point"}
+}

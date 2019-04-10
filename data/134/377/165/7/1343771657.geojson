@@ -1,0 +1,80 @@
+{
+  "id": 1343771657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.49786,7.42072,134.49786,7.42072",
+    "geom:latitude":7.42072,
+    "geom:longitude":134.49786,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ngerkeai Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":25,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559488,
+    "gn:latitude":7.42072,
+    "gn:longitude":134.49786,
+    "gn:modification_date":"2011-03-27",
+    "gn:name":"Ngerkeai Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garikiai",
+        "Karikiai",
+        "Goleguy",
+        "Ngarekai",
+        "Ngarekeai",
+        "Ngerkeyai",
+        "Ngergeai",
+        "Karikari",
+        "Nagarekeai",
+        "Galegui",
+        "Garadai",
+        "Ngerkeai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559488
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"a94dd7349c71c63601fe4f6d1d6d9f59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1343771657,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343771657,
+    "wof:lastmodified":1537683188,
+    "wof:name":"Ngerkeai Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.49786,
+    7.42072,
+    134.49786,
+    7.42072
+],
+  "geometry": {"coordinates":[134.49786,7.42072],"type":"Point"}
+}

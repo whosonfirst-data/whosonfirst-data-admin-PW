@@ -1,0 +1,68 @@
+{
+  "id": 890417705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.627,7.503,134.627,7.503",
+    "geom:latitude":7.503,
+    "geom:longitude":134.627,
+    "gn:country":"PW",
+    "gn:fcode":"RGN",
+    "gn:pop":19907,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "ARTERIAL WW2"
+    ],
+    "qs:name":"Western Caroline Islands - Palau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670829,
+        "gp:id":29389597,
+        "qs:id":696861
+    },
+    "wof:country":"PW",
+    "wof:created":1469051217,
+    "wof:geomhash":"a8b8e727d94f7849538bba3d4ec93c46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":890417705,
+            "region_id":85676471
+        }
+    ],
+    "wof:id":890417705,
+    "wof:lastmodified":1505343440,
+    "wof:name":"Western Caroline Islands - Palau",
+    "wof:parent_id":85676471,
+    "wof:placetype":"locality",
+    "wof:population":19907,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.627,
+    7.503,
+    134.627,
+    7.503
+],
+  "geometry": {"coordinates":[134.62700000000001,7.503],"type":"Point"}
+}

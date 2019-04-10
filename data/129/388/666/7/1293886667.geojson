@@ -1,0 +1,77 @@
+{
+  "id": 1293886667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.51439,7.36438,134.51439,7.36438",
+    "geom:latitude":7.36438,
+    "geom:longitude":134.51439,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngetkib Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":23,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559534,
+    "gn:latitude":7.36438,
+    "gn:longitude":134.51439,
+    "gn:modification_date":"2011-03-11",
+    "gn:name":"Ngetkib Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aakip",
+        "Gatkip",
+        "Ngetkip",
+        "Gadkip",
+        "Itkib",
+        "Ngetgip",
+        "Gakkibu",
+        "Atki\u00edp",
+        "Ngtk\u00edp",
+        "Ngatkip",
+        "Gakip",
+        "Adkip",
+        "Ngetkib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559534
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"768e0efe59cffbc2d573352ef599fdd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293886667,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293886667,
+    "wof:lastmodified":1537683189,
+    "wof:name":"Ngetkib Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.51439,
+    7.36438,
+    134.51439,
+    7.36438
+],
+  "geometry": {"coordinates":[134.51438999999999,7.36438],"type":"Point"}
+}

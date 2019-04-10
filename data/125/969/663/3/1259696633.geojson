@@ -1,0 +1,78 @@
+{
+  "id": 1259696633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.58027,7.38472,134.58027,7.38472",
+    "geom:latitude":7.38472,
+    "geom:longitude":134.58027,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngchesechang Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559362,
+    "gn:latitude":7.38472,
+    "gn:longitude":134.58027,
+    "gn:modification_date":"2011-03-11",
+    "gn:name":"Ngchesechang Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nggasagang",
+        "Amarakarakkuru",
+        "Nghesehang",
+        "Aramarakarakkuru",
+        "Gaskan",
+        "Ngaragebukl",
+        "Ngasachang",
+        "Aramarakarakuru",
+        "Gasakan",
+        "Ngchesechang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559362
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"bfe7e036bcb040cefab4844d0ba888a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1259696633,
+            "region_id":85676449
+        }
+    ],
+    "wof:id":1259696633,
+    "wof:lastmodified":1537683187,
+    "wof:name":"Ngchesechang Hamlet",
+    "wof:parent_id":85676449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.58026999999998,
+    7.38472,
+    134.58026999999998,
+    7.38472
+],
+  "geometry": {"coordinates":[134.58026999999998,7.38472],"type":"Point"}
+}

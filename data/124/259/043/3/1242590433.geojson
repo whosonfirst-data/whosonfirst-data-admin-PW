@@ -1,0 +1,65 @@
+{
+  "id": 1242590433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.51484,7.36451,134.51484,7.36451",
+    "geom:latitude":7.36451,
+    "geom:longitude":134.51484,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ngetkib",
+    "gn:country_code":"PW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":7701549,
+    "gn:latitude":7.36451,
+    "gn:longitude":134.51484,
+    "gn:modification_date":"2013-08-10",
+    "gn:name":"Ngetkib",
+    "gn:population":62,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701549,
+        "wk:page":"Ngetkib"
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"eb3c466d95c9fe6010dff18d2dca686e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1242590433,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242590433,
+    "wof:lastmodified":1537571953,
+    "wof:name":"Ngetkib",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":62,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.51484,
+    7.36451,
+    134.51484,
+    7.36451
+],
+  "geometry": {"coordinates":[134.51483999999999,7.36451],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1210002099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.6402,7.59296,134.6402,7.59296",
+    "geom:latitude":7.59296,
+    "geom:longitude":134.6402,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ngkeklau Hamlet",
+    "gn:country_code":"PW",
+    "gn:dem":11,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4038174,
+    "gn:latitude":7.59296,
+    "gn:longitude":134.6402,
+    "gn:modification_date":"2011-04-06",
+    "gn:name":"Ngkeklau Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keklau",
+        "Ngerkeklau",
+        "Kaklau",
+        "Kekurao",
+        "Kakurao",
+        "Ngkekau",
+        "Kaslau",
+        "Angkaluau",
+        "Ngekeklau",
+        "Geklau"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4038174,
+        "wk:page":"Ngkeklau"
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"7fab7e41ab5e2336f0eefde85e5338ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1210002099,
+            "region_id":85676503
+        }
+    ],
+    "wof:id":1210002099,
+    "wof:lastmodified":1537683195,
+    "wof:name":"Ngkeklau Hamlet",
+    "wof:parent_id":85676503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.6402,
+    7.59296,
+    134.6402,
+    7.59296
+],
+  "geometry": {"coordinates":[134.64019999999999,7.59296],"type":"Point"}
+}

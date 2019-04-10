@@ -1,0 +1,60 @@
+{
+  "id": 890425095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.5055,7.518,134.5055,7.518",
+    "geom:latitude":7.518,
+    "geom:longitude":134.5055,
+    "gn:country":"PW",
+    "gn:fcode":"RGN",
+    "gn:pop":317,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Babeldaob WestNorthWest - Ngeremlengui State",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7732313,
+        "qs:id":698053
+    },
+    "wof:country":"PW",
+    "wof:created":1469051574,
+    "wof:geomhash":"b3bab6b22c92b659b05618d52b574e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85632331,
+            "locality_id":890425095
+        }
+    ],
+    "wof:id":890425095,
+    "wof:lastmodified":1505343485,
+    "wof:name":"Babeldaob WestNorthWest - Ngeremlengui State",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":317,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.5055,
+    7.518,
+    134.5055,
+    7.518
+],
+  "geometry": {"coordinates":[134.50550000000001,7.518],"type":"Point"}
+}

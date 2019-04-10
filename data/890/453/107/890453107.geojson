@@ -1,0 +1,68 @@
+{
+  "id": 890453107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.626,7.503,134.626,7.503",
+    "geom:latitude":7.503,
+    "geom:longitude":134.626,
+    "gn:country":"PW",
+    "gn:fcode":"RGN",
+    "gn:pop":19907,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:unk_x_variant":[
+        "GULLCRY WW2"
+    ],
+    "qs:name":"Micronesia - Palau",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670828,
+        "gp:id":29389597,
+        "qs:id":696860
+    },
+    "wof:country":"PW",
+    "wof:created":1469052841,
+    "wof:geomhash":"7c83135471e2f486c52b4ff6e71f3885",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":890453107,
+            "region_id":85676471
+        }
+    ],
+    "wof:id":890453107,
+    "wof:lastmodified":1505343649,
+    "wof:name":"Micronesia - Palau",
+    "wof:parent_id":85676471,
+    "wof:placetype":"locality",
+    "wof:population":19907,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.626,
+    7.503,
+    134.626,
+    7.503
+],
+  "geometry": {"coordinates":[134.626,7.503],"type":"Point"}
+}

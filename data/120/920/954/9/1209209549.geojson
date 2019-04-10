@@ -1,0 +1,69 @@
+{
+  "id": 1209209549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.63609,7.69032,134.63609,7.69032",
+    "geom:latitude":7.69032,
+    "geom:longitude":134.63609,
+    "gn:admin1_code":"9.0",
+    "gn:asciiname":"Ngriil Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":41,
+    "gn:elevation":"35.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559617,
+    "gn:latitude":7.69032,
+    "gn:longitude":134.63609,
+    "gn:modification_date":"2011-03-09",
+    "gn:name":"Ngriil Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngril",
+        "Chiyou",
+        "Ngriel",
+        "Ngriil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559617
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"f83f9f0ec087e63a8f6610a315661596",
+    "wof:hierarchy":[
+        {
+            "country_id":85632331,
+            "locality_id":1209209549
+        }
+    ],
+    "wof:id":1209209549,
+    "wof:lastmodified":1537683189,
+    "wof:name":"Ngriil Hamlet",
+    "wof:parent_id":85632331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.63609,
+    7.69032,
+    134.63609,
+    7.69032
+],
+  "geometry": {"coordinates":[134.63609,7.69032],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226046673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.47596,7.446,134.47596,7.446",
+    "geom:latitude":7.446,
+    "geom:longitude":134.47596,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ngchemiangel Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":25,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559480,
+    "gn:latitude":7.446,
+    "gn:longitude":134.47596,
+    "gn:modification_date":"2011-03-26",
+    "gn:name":"Ngchemiangel Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Emieangl",
+        "Kamiyangaur",
+        "Kamiyangaru",
+        "Komliangl",
+        "Gamliangel",
+        "Ngchemiangel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559480
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"1390f9956d56e0645e6cb8863388407f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1226046673,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226046673,
+    "wof:lastmodified":1537683188,
+    "wof:name":"Ngchemiangel Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.47596,
+    7.446,
+    134.47596,
+    7.446
+],
+  "geometry": {"coordinates":[134.47595999999999,7.446],"type":"Point"}
+}

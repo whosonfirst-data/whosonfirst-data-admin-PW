@@ -1,0 +1,67 @@
+{
+  "id": 1276544747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.47912,7.34449,134.47912,7.34449",
+    "geom:latitude":7.34449,
+    "geom:longitude":134.47912,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Tngeronger Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":12,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559353,
+    "gn:latitude":7.34449,
+    "gn:longitude":134.47912,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Tngeronger Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngargersiul",
+        "Dngeronger"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559353
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"a4ca7a857de8cc4a2948e5c7dae56a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276544747,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276544747,
+    "wof:lastmodified":1537683187,
+    "wof:name":"Tngeronger Hamlet",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.47912,
+    7.34449,
+    134.47912,
+    7.34449
+],
+  "geometry": {"coordinates":[134.47911999999999,7.34449],"type":"Point"}
+}

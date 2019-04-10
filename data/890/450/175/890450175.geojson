@@ -1,0 +1,70 @@
+{
+  "id": 890450175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.71959,8.08693,134.71959,8.08693",
+    "geom:latitude":8.08693,
+    "geom:longitude":134.71959,
+    "gn:country":"PW",
+    "gn:fcode":"ISL",
+    "gn:pop":188,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:pau_x_preferred":[
+        "Ngcheangel"
+    ],
+    "name:unk_x_variant":[
+        "Kayangle"
+    ],
+    "qs:name":"Kayangel Island",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559775,
+        "qs:id":85336
+    },
+    "wof:country":"PW",
+    "wof:created":1469052728,
+    "wof:geomhash":"d3abf61a472a5d270a72077685e00cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":890450175,
+            "region_id":85676461
+        }
+    ],
+    "wof:id":890450175,
+    "wof:lastmodified":1505343632,
+    "wof:name":"Kayangel Island",
+    "wof:parent_id":85676461,
+    "wof:placetype":"locality",
+    "wof:population":188,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.71959,
+    8.08693,
+    134.71959,
+    8.08693
+],
+  "geometry": {"coordinates":[134.71959000000001,8.08693],"type":"Point"}
+}

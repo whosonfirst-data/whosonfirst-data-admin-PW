@@ -1,0 +1,72 @@
+{
+  "id": 1209637571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.47623,7.33249,134.47623,7.33249",
+    "geom:latitude":7.33249,
+    "geom:longitude":134.47623,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ngerbeched Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":19,
+    "gn:elevation":"10.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559400,
+    "gn:latitude":7.33249,
+    "gn:longitude":134.47623,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Ngerbeched Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngarbaged-rengul",
+        "Neustadt",
+        "Arubaketsu",
+        "Ngarbaged",
+        "Arabaketsu",
+        "Ngarbeched",
+        "Ngerbeched"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559400
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"112fe8e44cfbcab0049cb6f2fb936909",
+    "wof:hierarchy":[
+        {
+            "country_id":85632331,
+            "locality_id":1209637571
+        }
+    ],
+    "wof:id":1209637571,
+    "wof:lastmodified":1537683187,
+    "wof:name":"Ngerbeched Hamlet",
+    "wof:parent_id":85632331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.47623000000002,
+    7.33249,
+    134.47623000000002,
+    7.33249
+],
+  "geometry": {"coordinates":[134.47623000000002,7.33249],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226336749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.62932,7.50762,134.62932,7.50762",
+    "geom:latitude":7.50762,
+    "geom:longitude":134.62932,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngeburch Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":12,
+    "gn:elevation":"3.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559755,
+    "gn:latitude":7.50762,
+    "gn:longitude":134.62932,
+    "gn:modification_date":"2011-03-28",
+    "gn:name":"Ngeburch Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ngebureg",
+        "Ngaburok",
+        "Gabulko",
+        "Ororian",
+        "Galbuko",
+        "Ololian",
+        "a Ipelau",
+        "Ngeburch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559755
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"0361f3d68087ac001fe38e1807c135d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1226336749,
+            "region_id":85676471
+        }
+    ],
+    "wof:id":1226336749,
+    "wof:lastmodified":1537683191,
+    "wof:name":"Ngeburch Hamlet",
+    "wof:parent_id":85676471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.62932,
+    7.50762,
+    134.62932,
+    7.50762
+],
+  "geometry": {"coordinates":[134.62932000000001,7.50762],"type":"Point"}
+}

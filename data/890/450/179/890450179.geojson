@@ -1,0 +1,97 @@
+{
+  "id": 890450179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.56939,7.56242,134.56939,7.56242",
+    "geom:latitude":7.56242,
+    "geom:longitude":134.56939,
+    "gn:country":"PW",
+    "gn:fcode":"ISL",
+    "gn:pop":5877,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "name:deu_x_preferred":[
+        "Babelthuap"
+    ],
+    "name:eng_x_preferred":[
+        "Babeldaob"
+    ],
+    "name:eng_x_variant":[
+        "Babelthuap"
+    ],
+    "name:fin_x_preferred":[
+        "Babeldaob"
+    ],
+    "name:nld_x_preferred":[
+        "Babeldaob"
+    ],
+    "name:nor_x_preferred":[
+        "Babeldaob"
+    ],
+    "name:pol_x_preferred":[
+        "Babelthuap"
+    ],
+    "name:spa_x_preferred":[
+        "Babeldaob"
+    ],
+    "name:swe_x_preferred":[
+        "Babeldaob"
+    ],
+    "name:unk_x_variant":[
+        "Baubelthouap"
+    ],
+    "qs:name":"Babeldaob",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:wordcount":609,
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676497
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559947,
+        "qs:id":85340,
+        "wd:id":"Q746861",
+        "wk:page":"Babeldaob"
+    },
+    "wof:country":"PW",
+    "wof:created":1469052729,
+    "wof:geomhash":"4e907a186ed5a8afbe06e99243a5543d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":890450179,
+            "region_id":85676497
+        }
+    ],
+    "wof:id":890450179,
+    "wof:lastmodified":1527792966,
+    "wof:name":"Babeldaob",
+    "wof:parent_id":85676497,
+    "wof:placetype":"locality",
+    "wof:population":5877,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.56939,
+    7.56242,
+    134.56939,
+    7.56242
+],
+  "geometry": {"coordinates":[134.56939,7.56242],"type":"Point"}
+}

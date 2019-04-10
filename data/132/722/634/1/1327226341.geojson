@@ -1,0 +1,71 @@
+{
+  "id": 1327226341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.48299,7.34708,134.48299,7.34708",
+    "geom:latitude":7.34708,
+    "geom:longitude":134.48299,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Meketii Hamlet",
+    "gn:cc2":"PW",
+    "gn:country_code":"PW",
+    "gn:dem":12,
+    "gn:elevation":"4.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1559694,
+    "gn:latitude":7.34708,
+    "gn:longitude":134.48299,
+    "gn:modification_date":"2011-03-29",
+    "gn:name":"Meketii Hamlet",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minatohang",
+        "Meketii"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676467
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1559694
+    },
+    "wof:country":"PW",
+    "wof:geomhash":"d2e32839e51bbc40f27c44e77bf6068c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":1327226341,
+            "region_id":85676467
+        }
+    ],
+    "wof:id":1327226341,
+    "wof:lastmodified":1537683190,
+    "wof:name":"Meketii Hamlet",
+    "wof:parent_id":85676467,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.48299,
+    7.34708,
+    134.48299,
+    7.34708
+],
+  "geometry": {"coordinates":[134.48299,7.34708],"type":"Point"}
+}

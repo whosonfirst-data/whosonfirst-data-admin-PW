@@ -1,0 +1,64 @@
+{
+  "id": 890446939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"134.601,7.47,134.601,7.47",
+    "geom:latitude":7.47,
+    "geom:longitude":134.601,
+    "gn:country":"PW",
+    "gn:fcode":"RGN",
+    "gn:pop":254,
+    "iso:country":"PW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":1,
+    "qs:name":"Babeldaob SouthEast - Ngchesar State",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191583,
+        85632331,
+        85676493
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7701424,
+        "qs:id":697880
+    },
+    "wof:country":"PW",
+    "wof:created":1469052572,
+    "wof:geomhash":"f90cead45d9d13d5547c6b3cebb0e889",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632331,
+            "locality_id":890446939,
+            "region_id":85676493
+        }
+    ],
+    "wof:id":890446939,
+    "wof:lastmodified":1505343614,
+    "wof:name":"Babeldaob SouthEast - Ngchesar State",
+    "wof:parent_id":85676493,
+    "wof:placetype":"locality",
+    "wof:population":254,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-pw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    134.601,
+    7.47,
+    134.601,
+    7.47
+],
+  "geometry": {"coordinates":[134.601,7.47],"type":"Point"}
+}
