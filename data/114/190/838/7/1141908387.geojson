@@ -23,13 +23,10 @@
     "name:cat_x_preferred":[
         "Koror"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f85\u723e"
-    ],
     "name:dan_x_preferred":[
         "Koror"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Koror"
     ],
     "name:eng_x_preferred":[
@@ -38,13 +35,7 @@
     "name:fin_x_preferred":[
         "Koror"
     ],
-    "name:fre_x_preferred":[
-        "Koror"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Koror"
     ],
     "name:hat_x_preferred":[
@@ -59,6 +50,9 @@
     "name:jpn_x_preferred":[
         "\u30b3\u30ed\u30fc\u30eb"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10dd\u10e0\u10d8"
+    ],
     "name:kir_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0440"
     ],
@@ -68,7 +62,10 @@
     "name:lit_x_preferred":[
         "Kororas"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Koror"
+    ],
+    "name:nld_x_preferred":[
         "Koror"
     ],
     "name:por_x_preferred":[
@@ -94,6 +91,9 @@
     ],
     "name:vep_x_preferred":[
         "Koror"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f85\u723e"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Palau",
@@ -212,7 +212,7 @@
         }
     ],
     "wof:id":1141908387,
-    "wof:lastmodified":1514498209,
+    "wof:lastmodified":1561829643,
     "wof:name":"Koror",
     "wof:parent_id":85676467,
     "wof:placetype":"locality",

@@ -31,17 +31,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997\u09be\u09aa\u09be\u0982"
     ],
-    "name:chi_x_preferred":[
-        "\u96c5\u9f90"
-    ],
     "name:dan_x_preferred":[
         "Ngatpang"
     ],
     "name:deu_x_preferred":[
         "Ngatpang"
     ],
-    "name:dut_x_preferred":[
-        "Ngatpang"
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03b1\u03c4\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Ngatpang"
@@ -51,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Ngatpang"
-    ],
-    "name:fre_x_preferred":[
-        "Ngatpang"
-    ],
-    "name:ger_x_preferred":[
-        "Ngatpang"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b3\u03ba\u03b1\u03c4\u03c0\u03ac\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0acd\u0a97\u0abe\u0aa4\u0aaa\u0abe\u0a82\u0a97"
@@ -94,11 +82,11 @@
     "name:mar_x_preferred":[
         "\u0928\u0917\u093e\u0924\u092a\u093e\u0902\u0917"
     ],
-    "name:may_x_preferred":[
-        "Ngatpang"
-    ],
     "name:mrj_x_preferred":[
         "\u041d\u0433\u0430\u0442\u043f\u0430\u043d\u0433"
+    ],
+    "name:msa_x_preferred":[
+        "Ngatpang"
     ],
     "name:nld_x_preferred":[
         "Ngatpang"
@@ -274,7 +262,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1553550576,
+    "wof:lastmodified":1561829642,
     "wof:name":"Ngatpang",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
