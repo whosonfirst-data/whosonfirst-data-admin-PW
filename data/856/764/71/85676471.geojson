@@ -34,20 +34,14 @@
     "name:ces_x_preferred":[
         "Melekeok"
     ],
-    "name:chi_x_preferred":[
-        "\u6885\u83b1\u51ef\u5965\u514b\u5dde"
-    ],
-    "name:cze_x_preferred":[
-        "Melekeok"
-    ],
     "name:dan_x_preferred":[
         "Melekeok"
     ],
     "name:deu_x_preferred":[
         "Melekeok"
     ],
-    "name:dut_x_preferred":[
-        "Melekeok"
+    "name:ell_x_preferred":[
+        "\u039c\u03b5\u03bb\u03b5\u03ba\u03b5\u03cc\u03ba"
     ],
     "name:eng_x_preferred":[
         "Melekeok"
@@ -60,15 +54,6 @@
     ],
     "name:fra_x_preferred":[
         "Melekeok"
-    ],
-    "name:fre_x_preferred":[
-        "Melekeok"
-    ],
-    "name:ger_x_preferred":[
-        "Melekeok"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b5\u03bb\u03b5\u03ba\u03b5\u03cc\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac7\u0ab2\u0ac7\u0a95\u0ac7\u0a93\u0a95"
@@ -106,7 +91,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0947\u0932\u0947\u0915\u0947\u0915"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Melekeok"
     ],
     "name:nld_x_preferred":[
@@ -288,7 +273,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1553550575,
+    "wof:lastmodified":1561829642,
     "wof:name":"Melekeok",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

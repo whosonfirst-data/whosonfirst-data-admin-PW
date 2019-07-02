@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004781,
-    "geom:area_square_m":58636525.733292,
+    "geom:area_square_m":58636525.733269,
     "geom:bbox":"134.347178582,7.21914297097,134.527354363,7.36269765817",
     "geom:latitude":7.2888,
     "geom:longitude":134.438135,
@@ -32,12 +32,6 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0643\u0648\u0631\u0648\u0631"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u0578\u0580\u0578\u0580"
-    ],
-    "name:baq_x_preferred":[
-        "Koror"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u0440\u0430\u0440"
     ],
@@ -50,19 +44,13 @@
     "name:cat_x_preferred":[
         "Koror"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u7f85\u723e\u5dde"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Koror"
     ],
     "name:dan_x_preferred":[
         "Koror"
     ],
     "name:deu_x_preferred":[
-        "Koror"
-    ],
-    "name:dut_x_preferred":[
         "Koror"
     ],
     "name:ell_x_preferred":[
@@ -83,18 +71,6 @@
     "name:fra_x_preferred":[
         "Koror"
     ],
-    "name:fre_x_preferred":[
-        "Koror"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10dd\u10e0\u10dd\u10e0\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Koror"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03bf\u03c1\u03cc\u03c1"
-    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0ab0\u0acb\u0ab0"
     ],
@@ -106,6 +82,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u0930\u0930"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0578\u0580\u0578\u0580"
     ],
     "name:ido_x_preferred":[
         "Koror"
@@ -122,6 +101,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cb0\u0ccb\u0cb0\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10dd\u10e0\u10dd\u10e0\u10d8"
+    ],
     "name:kin_x_preferred":[
         "Koror"
     ],
@@ -134,20 +116,17 @@
     "name:lit_x_preferred":[
         "Kororas"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u043e\u0440\u043e\u0440"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094b\u0930\u094b\u0930"
-    ],
-    "name:may_x_preferred":[
-        "Koror"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0440"
     ],
     "name:mrj_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Koror"
     ],
     "name:nan_x_preferred":[
         "Koror"
@@ -164,9 +143,6 @@
     "name:oci_x_preferred":[
         "Koror"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u0631\u0648\u0631"
-    ],
     "name:pol_x_preferred":[
         "Koror"
     ],
@@ -182,7 +158,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0ddc\u0dbb\u0ddc\u0dbb\u0dca"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Koror"
     ],
     "name:spa_x_preferred":[
@@ -206,9 +182,6 @@
     "name:tha_x_preferred":[
         "\u0e04\u0e2d\u0e23\u0e2d\u0e23\u0e4c"
     ],
-    "name:tib_x_preferred":[
-        "\u0f41\u0f7c\u0f0b\u0f62\u0f7c\u0f62\u0f0d"
-    ],
     "name:tur_x_preferred":[
         "Koror"
     ],
@@ -226,6 +199,9 @@
     ],
     "name:vie_x_preferred":[
         "Koror"
+    ],
+    "name:zho_x_preferred":[
+        "\u79d1\u7f85\u723e\u5dde"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PLW",
@@ -351,7 +327,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1553814813,
+    "wof:lastmodified":1561829641,
     "wof:name":"Koror",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

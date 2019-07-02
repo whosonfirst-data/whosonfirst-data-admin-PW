@@ -31,17 +31,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997\u09be\u09b0\u09be\u09b0\u09cd\u09a6"
     ],
-    "name:chi_x_preferred":[
-        "\u96c5\u62c9\u723e\u5fb7\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Ngaraard"
     ],
     "name:deu_x_preferred":[
         "Ngaraard"
     ],
-    "name:dut_x_preferred":[
-        "Ngaraard"
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03b1\u03c1\u03b1\u03ac\u03c1\u03bd\u03c4"
     ],
     "name:eng_x_preferred":[
         "Ngaraard"
@@ -51,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Ngaraard"
-    ],
-    "name:fre_x_preferred":[
-        "Ngaraard"
-    ],
-    "name:ger_x_preferred":[
-        "Ngaraard"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b3\u03ba\u03b1\u03c1\u03b1\u03ac\u03c1\u03bd\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a97\u0ab0\u0abe\u0ab0\u0acd\u0aa1"
@@ -88,20 +76,17 @@
     "name:lit_x_preferred":[
         "Ngarardas"
     ],
-    "name:mac_x_preferred":[
-        "\u041d\u0433\u0430\u0440\u0430\u0440\u0434"
-    ],
     "name:mar_x_preferred":[
         "\u0928\u0917\u0930\u093e\u0921"
-    ],
-    "name:may_x_preferred":[
-        "Ngaraard"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u0433\u0430\u0440\u0430\u0440\u0434"
     ],
     "name:mrj_x_preferred":[
         "\u041d\u0433\u0430\u0440\u0430\u0430\u0440\u0434"
+    ],
+    "name:msa_x_preferred":[
+        "Ngaraard"
     ],
     "name:nld_x_preferred":[
         "Ngaraard"
@@ -277,7 +262,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1553550574,
+    "wof:lastmodified":1561829642,
     "wof:name":"Ngaraard",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

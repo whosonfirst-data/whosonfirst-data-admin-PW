@@ -31,17 +31,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09ac\u09be\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u5b9c\u74e6\u5c14\u5dde"
-    ],
     "name:dan_x_preferred":[
         "Ngiwal"
     ],
     "name:deu_x_preferred":[
         "Ngiwal"
     ],
-    "name:dut_x_preferred":[
-        "Ngiwal"
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03af\u03b2\u03b1\u03bb"
     ],
     "name:eng_x_preferred":[
         "Ngiwal"
@@ -51,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Ngiwal"
-    ],
-    "name:fre_x_preferred":[
-        "Ngiwal"
-    ],
-    "name:ger_x_preferred":[
-        "Ngiwal"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b3\u03ba\u03af\u03b2\u03b1\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a97\u0ac0\u0ab5\u0abe\u0ab2"
@@ -91,11 +79,11 @@
     "name:mar_x_preferred":[
         "\u0928\u0917\u0940\u0935\u093e\u0932"
     ],
-    "name:may_x_preferred":[
-        "Ngiwal"
-    ],
     "name:mrj_x_preferred":[
         "\u041d\u0433\u0438\u0432\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Ngiwal"
     ],
     "name:nld_x_preferred":[
         "Ngiwal"
@@ -271,7 +259,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1553550571,
+    "wof:lastmodified":1561829642,
     "wof:name":"Ngiwal",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
