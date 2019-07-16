@@ -71,6 +71,9 @@
     "name:kor_x_preferred":[
         "\uac00\ub974\ub4dc\ub9c8\uc6b0 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\ub974\ub4dc\ub9c8\uc6b0\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Nardmau"
     ],
@@ -260,7 +263,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829642,
+    "wof:lastmodified":1563271800,
     "wof:name":"Ngardmau",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

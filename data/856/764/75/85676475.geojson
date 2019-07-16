@@ -70,6 +70,9 @@
     "name:kor_x_preferred":[
         "\uac00\ub77c\ub974\ub4dc \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\ub77c\ub974\ub4dc\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Nar\u0101rta"
     ],
@@ -262,7 +265,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829642,
+    "wof:lastmodified":1563271797,
     "wof:name":"Ngaraard",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

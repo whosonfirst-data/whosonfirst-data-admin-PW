@@ -18,6 +18,9 @@
     "name:eng_x_preferred":[
         "Hatohobei"
     ],
+    "name:fra_x_preferred":[
+        "Hatohobei"
+    ],
     "name:nld_x_preferred":[
         "Hatohobei"
     ],
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890453105,
-    "wof:lastmodified":1561829643,
+    "wof:lastmodified":1563271817,
     "wof:name":"Tobi Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

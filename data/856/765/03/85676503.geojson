@@ -70,6 +70,9 @@
     "name:kor_x_preferred":[
         "\uae30\uc648 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uae30\uc648\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Nivalas \u0161tats"
     ],
@@ -259,7 +262,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829642,
+    "wof:lastmodified":1563271802,
     "wof:name":"Ngiwal",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

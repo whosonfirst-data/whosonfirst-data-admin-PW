@@ -70,6 +70,9 @@
     "name:kor_x_preferred":[
         "\uccb4\uc0ac\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uccb4\uc0ac\ub974\uc8fc"
+    ],
     "name:lav_x_preferred":[
         "Nesara"
     ],
@@ -261,7 +264,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829641,
+    "wof:lastmodified":1563271796,
     "wof:name":"Ngchesar",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
