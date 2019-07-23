@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0623\u064a\u0645\u064a\u0644\u064a\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Aimeliik"
+    ],
     "name:ben_x_preferred":[
         "\u098f\u0987\u09ae\u09c7\u09b2\u09bf\u0995"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:est_x_preferred":[
         "Aimeliiki osariik"
+    ],
+    "name:est_x_variant":[
+        "Aimeliik"
     ],
     "name:fin_x_preferred":[
         "Aimeliik"
@@ -73,8 +79,14 @@
     "name:kan_x_preferred":[
         "\u0c90\u0cae\u0cc6\u0cb2\u0cbf\u0c95\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10db\u10d4\u10da\u10d8\u10d8\u10d9\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc774\uba5c\ub9ac\ud06c \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc774\uba5c\ub9ac\ud06c\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Aimeliika"
@@ -98,6 +110,9 @@
         "Aimeliik"
     ],
     "name:nor_x_preferred":[
+        "Aimeliik"
+    ],
+    "name:oci_x_preferred":[
         "Aimeliik"
     ],
     "name:pol_x_preferred":[
@@ -268,7 +283,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829642,
+    "wof:lastmodified":1563271798,
     "wof:name":"Aimeliik",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

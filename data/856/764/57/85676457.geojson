@@ -80,6 +80,9 @@
     "name:kor_x_preferred":[
         "\ud558\ud1a0\ud638\ubca0\uc774 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ud558\ud1a0\ud638\ubca0\uc774\uc8fc"
+    ],
     "name:lat_x_preferred":[
         "Hatohobei"
     ],
@@ -91,6 +94,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0939\u093e\u0924\u094b\u0939\u094b\u092c\u0947\u0908"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0430\u0442\u043e\u0445\u043e\u0431\u0435\u0458"
     ],
     "name:mrj_x_preferred":[
         "\u0425\u0430\u0442\u043e\u0445\u043e\u0431\u0435\u0438"
@@ -276,7 +282,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829641,
+    "wof:lastmodified":1563271795,
     "wof:name":"Hatobohei",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

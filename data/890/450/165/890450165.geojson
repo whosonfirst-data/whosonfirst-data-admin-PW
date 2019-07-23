@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Hatohobei"
     ],
+    "name:fra_x_preferred":[
+        "Hatohobei"
+    ],
     "name:nld_x_preferred":[
         "Hatohobei"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890450165,
-    "wof:lastmodified":1561829643,
+    "wof:lastmodified":1563271821,
     "wof:name":"Tobi Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

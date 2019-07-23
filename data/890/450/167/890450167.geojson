@@ -16,8 +16,140 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0628\u064a\u0644\u064a\u0644\u064a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09b2\u09c7\u09b2\u09bf\u0989"
+    ],
+    "name:cat_x_preferred":[
+        "Peleliu"
+    ],
+    "name:ceb_x_preferred":[
+        "Peleliu"
+    ],
+    "name:dan_x_preferred":[
+        "Peleliu"
+    ],
+    "name:deu_x_preferred":[
+        "Peleliu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b5\u03bb\u03b5\u03bb\u03af\u03bf\u03c5"
+    ],
+    "name:eng_x_preferred":[
+        "Peleliu"
+    ],
+    "name:epo_x_preferred":[
+        "Peleliu"
+    ],
+    "name:fin_x_preferred":[
+        "Peleliu"
+    ],
+    "name:fra_x_preferred":[
+        "Peleliu"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac7\u0ab2\u0ac7\u0ab2\u0ac1"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0932\u0947\u0932\u093f\u090a"
+    ],
+    "name:hye_x_preferred":[
+        "\u054a\u0565\u056c\u0565\u056c\u056b\u0578\u0582"
+    ],
+    "name:ind_x_preferred":[
+        "Peleliu"
+    ],
+    "name:ita_x_preferred":[
+        "Peleliu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30da\u30ea\u30ea\u30e5\u30fc\u5dde"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc6\u0cb2\u0cc6\u0cb2\u0cbf\u0caf\u0cc1"
+    ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10da\u10d4\u10da\u10d8\u10e3\u10e1 \u10e8\u10e2\u10d0\u10e2\u10d8"
+    ],
+    "name:kin_x_preferred":[
+        "Peleliu"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3a0\ub810\ub9ac\uc6b0\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Peleliu"
+    ],
+    "name:lit_x_preferred":[
+        "Peleliu"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0947\u0932\u0947\u0932\u0941"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041f\u0435\u043b\u0435\u043b\u0438\u0443"
+    ],
+    "name:msa_x_preferred":[
+        "Peleliu"
+    ],
+    "name:nan_x_preferred":[
+        "Peleliu"
+    ],
+    "name:nld_x_preferred":[
+        "Peleliu"
+    ],
+    "name:nob_x_preferred":[
+        "Peleliu"
+    ],
+    "name:pol_x_preferred":[
+        "Peleliu"
+    ],
+    "name:por_x_preferred":[
+        "Peleliu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0435\u043b\u0435\u043b\u0438\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd9\u0dbd\u0dd9\u0dbd\u0dd2\u0dba\u0dd4"
+    ],
+    "name:slv_x_preferred":[
+        "Peleliu"
+    ],
+    "name:spa_x_preferred":[
+        "Peleliu"
+    ],
+    "name:swe_x_preferred":[
+        "Peleliu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc7\u0bb2\u0bc7\u0bb2\u0bcd\u0baf\u0bc1"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c46\u0c32\u0c46\u0c32\u0c3f\u0c2f\u0c42"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e23\u0e31\u0e10\u0e40\u0e1b\u0e40\u0e25\u0e25\u0e34\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Peleliu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043b\u0435\u043b\u0456\u0443"
+    ],
     "name:unk_x_variant":[
         "Beliliou"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0644\u06cc\u0644\u06cc\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Peleliu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c9d\u91cc\u7409\u5dde"
     ],
     "qs:name":"Peleliu",
     "qs:photos_9r":0,
@@ -50,7 +182,7 @@
         }
     ],
     "wof:id":890450167,
-    "wof:lastmodified":1527792959,
+    "wof:lastmodified":1563271820,
     "wof:name":"Peleliu",
     "wof:parent_id":85676507,
     "wof:placetype":"locality",

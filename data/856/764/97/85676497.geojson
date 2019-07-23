@@ -58,6 +58,9 @@
     "name:ind_x_preferred":[
         "Ngeremlengui"
     ],
+    "name:ind_x_variant":[
+        "Ngaremlengui"
+    ],
     "name:ita_x_preferred":[
         "Ngaremlengui"
     ],
@@ -67,8 +70,14 @@
     "name:kan_x_preferred":[
         "\u0ca8\u0c97\u0cc6\u0cb0\u0cc6\u0c82\u0c97\u0cc6\u0caf\u0cbf\u0caf\u0cbf"
     ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d2\u10d0\u10e0\u10d4\u10db\u10da\u10d4\u10dc\u10d2\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uac00\ub818\ub81d\uad6c\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uac00\ub818\ub81d\uad6c\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Neremlenui"
@@ -258,7 +267,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829642,
+    "wof:lastmodified":1563271799,
     "wof:name":"Ngeremlengui",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

@@ -46,6 +46,9 @@
     "name:est_x_preferred":[
         "Airai osariik"
     ],
+    "name:est_x_variant":[
+        "Airai"
+    ],
     "name:fin_x_preferred":[
         "Airai"
     ],
@@ -73,8 +76,14 @@
     "name:kan_x_preferred":[
         "\u0c8f\u0cb0\u0ccd\u0caf\u0cbe\u0caf\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10d0\u10d8\u10e0\u10d0\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uc544\uc774\ub77c\uc774 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc544\uc774\ub77c\uc774\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Airai"
@@ -84,6 +93,9 @@
     ],
     "name:mar_x_preferred":[
         "\u090f\u0905\u0930\u0932\u093e\u0908"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0410\u0458\u0440\u0430\u0458"
     ],
     "name:mrj_x_preferred":[
         "\u0410\u0438\u0440\u0430\u0438"
@@ -271,7 +283,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1561829642,
+    "wof:lastmodified":1563271801,
     "wof:name":"Airai",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
