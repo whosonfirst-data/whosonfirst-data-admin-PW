@@ -26,6 +26,9 @@
     "iso:country":"PW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Elab"
+    ],
     "name:und_x_variant":[
         "Yalap",
         "Garurudo",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1343380921,
-    "wof:lastmodified":1537683192,
+    "wof:lastmodified":1564222875,
     "wof:name":"Chelab Hamlet",
     "wof:parent_id":85676475,
     "wof:placetype":"locality",

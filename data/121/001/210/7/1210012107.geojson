@@ -26,6 +26,9 @@
     "iso:country":"PW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Chol"
+    ],
     "name:und_x_variant":[
         "Choll",
         "Acholl",
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1210012107,
-    "wof:lastmodified":1537683192,
+    "wof:lastmodified":1564222881,
     "wof:name":"Chol Hamlet",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

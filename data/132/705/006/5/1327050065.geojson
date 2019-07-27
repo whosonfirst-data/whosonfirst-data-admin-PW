@@ -25,6 +25,9 @@
     "iso:country":"PW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Ngebuked"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":1327050065,
-    "wof:lastmodified":1537571953,
+    "wof:lastmodified":1564222874,
     "wof:name":"Ngebuked Hamlet",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
