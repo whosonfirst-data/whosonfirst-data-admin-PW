@@ -26,6 +26,51 @@
     "iso:country":"PW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0644\u0627\u064a\u0629 \u0646\u064a\u063a\u062a\u0634\u064a\u0633\u0627\u0631"
+    ],
+    "name:ceb_x_preferred":[
+        "State of Ngchesar"
+    ],
+    "name:deu_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:fin_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:fra_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:ind_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:ita_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a8\u30b5\u30fc\u30eb\u5dde"
+    ],
+    "name:kor_x_preferred":[
+        "\uccb4\uc0ac\ub974\uc8fc"
+    ],
+    "name:lit_x_preferred":[
+        "Ng\u010desaras"
+    ],
+    "name:mrj_x_preferred":[
+        "\u041d\u0433\u0445\u0435\u0441\u0430\u0440"
+    ],
+    "name:nld_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:nor_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0433\u0445\u0435\u0441\u0430\u0440"
+    ],
+    "name:swe_x_preferred":[
+        "Ngchesar"
+    ],
     "name:und_x_variant":[
         "Enkassar",
         "Arakaso",
@@ -38,6 +83,15 @@
         "Nggessar",
         "Enkasar",
         "Ngurutoi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06af\u0686\u06cc\u0633\u0627\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Ngchesar"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u5207\u85a9\u723e\u5dde"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -62,7 +116,7 @@
         }
     ],
     "wof:id":1344137055,
-    "wof:lastmodified":1537683192,
+    "wof:lastmodified":1564222876,
     "wof:name":"Ngchesar Hamlet",
     "wof:parent_id":85676493,
     "wof:placetype":"locality",
