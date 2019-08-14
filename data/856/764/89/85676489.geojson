@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NP"
+    ],
     "lbl:latitude":7.478065,
     "lbl:longitude":134.552605,
     "mps:latitude":7.478065,
@@ -257,9 +260,6 @@
         }
     ],
     "wof:id":85676489,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -268,7 +268,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271797,
+    "wof:lastmodified":1565733754,
     "wof:name":"Ngatpang",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

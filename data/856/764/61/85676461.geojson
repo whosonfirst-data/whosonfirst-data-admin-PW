@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":8.074086,
     "lbl:longitude":134.709152,
     "mps:latitude":8.074086,
@@ -259,9 +262,6 @@
         }
     ],
     "wof:id":85676461,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -270,7 +270,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271794,
+    "wof:lastmodified":1565733753,
     "wof:name":"Kayangel",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

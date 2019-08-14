@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HA"
+    ],
     "lbl:latitude":3.041115,
     "lbl:longitude":131.161674,
     "mps:latitude":3.041115,
@@ -271,9 +274,6 @@
         }
     ],
     "wof:id":85676457,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -282,7 +282,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271795,
+    "wof:lastmodified":1565733753,
     "wof:name":"Hatobohei",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

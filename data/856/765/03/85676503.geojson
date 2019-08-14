@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
+    ],
     "lbl:latitude":7.56832,
     "lbl:longitude":134.63372,
     "mps:latitude":7.56832,
@@ -251,9 +254,6 @@
         }
     ],
     "wof:id":85676503,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -262,7 +262,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271802,
+    "wof:lastmodified":1565733754,
     "wof:name":"Ngiwal",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

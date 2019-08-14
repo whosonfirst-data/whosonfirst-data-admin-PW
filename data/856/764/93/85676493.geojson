@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NS"
+    ],
     "lbl:latitude":7.464608,
     "lbl:longitude":134.595651,
     "mps:latitude":7.464608,
@@ -253,9 +256,6 @@
         }
     ],
     "wof:id":85676493,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -264,7 +264,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271796,
+    "wof:lastmodified":1565733753,
     "wof:name":"Ngchesar",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

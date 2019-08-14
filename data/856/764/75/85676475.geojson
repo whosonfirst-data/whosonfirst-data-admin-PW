@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ND"
+    ],
     "lbl:latitude":7.613323,
     "lbl:longitude":134.640543,
     "mps:latitude":7.613323,
@@ -254,9 +257,6 @@
         }
     ],
     "wof:id":85676475,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -265,7 +265,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271797,
+    "wof:lastmodified":1565733754,
     "wof:name":"Ngaraard",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

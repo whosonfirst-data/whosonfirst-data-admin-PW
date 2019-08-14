@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SO"
+    ],
     "lbl:latitude":5.303101,
     "lbl:longitude":132.220759,
     "mps:latitude":5.303101,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85676509,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -281,7 +281,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271803,
+    "wof:lastmodified":1565733754,
     "wof:name":"Sonsorol",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

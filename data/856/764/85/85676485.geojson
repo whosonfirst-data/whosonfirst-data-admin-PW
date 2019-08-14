@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NM"
+    ],
     "lbl:latitude":7.597274,
     "lbl:longitude":134.579941,
     "mps:latitude":7.597274,
@@ -252,9 +255,6 @@
         }
     ],
     "wof:id":85676485,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -263,7 +263,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271800,
+    "wof:lastmodified":1565733754,
     "wof:name":"Ngardmau",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

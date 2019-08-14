@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PE"
+    ],
     "lbl:latitude":7.028103,
     "lbl:longitude":134.2606,
     "mps:latitude":7.028103,
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85676507,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -289,7 +289,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271802,
+    "wof:lastmodified":1565733754,
     "wof:name":"Peleliu",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

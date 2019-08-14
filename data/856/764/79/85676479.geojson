@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NC"
+    ],
     "lbl:latitude":7.709101,
     "lbl:longitude":134.640169,
     "mps:latitude":7.709101,
@@ -255,9 +258,6 @@
         }
     ],
     "wof:id":85676479,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -266,7 +266,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271800,
+    "wof:lastmodified":1565733754,
     "wof:name":"Ngarchelong",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

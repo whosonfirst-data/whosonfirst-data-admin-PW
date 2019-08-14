@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":7.51149,
     "lbl:longitude":134.614918,
     "mps:latitude":7.51149,
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85676471,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -288,7 +288,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271801,
+    "wof:lastmodified":1565733754,
     "wof:name":"Melekeok",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

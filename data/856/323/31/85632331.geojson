@@ -15,6 +15,9 @@
     "itu:country_code":[
         "680"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PW"
+    ],
     "lbl:latitude":7.497679,
     "lbl:longitude":134.581978,
     "mps:latitude":7.497679,
@@ -880,9 +883,6 @@
         }
     ],
     "wof:id":85632331,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -891,7 +891,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271806,
+    "wof:lastmodified":1565733755,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

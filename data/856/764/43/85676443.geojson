@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":7.441717,
     "lbl:longitude":134.524049,
     "mps:latitude":7.441717,
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85676443,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -283,7 +283,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271798,
+    "wof:lastmodified":1565733754,
     "wof:name":"Aimeliik",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

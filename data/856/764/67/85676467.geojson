@@ -18,6 +18,9 @@
     "label:eng_x_preferred_placetype":[
         "state"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KO"
+    ],
     "lbl:latitude":7.229675,
     "lbl:longitude":134.381705,
     "mps:latitude":7.229675,
@@ -331,9 +334,6 @@
         }
     ],
     "wof:id":85676467,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "pau",
         "eng"
@@ -342,7 +342,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1563271796,
+    "wof:lastmodified":1565733753,
     "wof:name":"Koror",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
