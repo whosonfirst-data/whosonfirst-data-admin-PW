@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.478065,
     "lbl:longitude":134.552605,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.478065,
     "mps:longitude":134.552605,
     "mz:hierarchy_label":1,
@@ -136,7 +137,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0433\u0430\u0442\u043f\u0430\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ngimis"
     ],
     "name:urd_x_preferred":[
@@ -217,9 +218,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-01",
+    "src:population_date":"2005-04-01",
     "statoids:area_km":"47",
     "statoids:area_mi":"18",
     "statoids:as_of_date":"2005-04-01",
@@ -245,7 +246,7 @@
         "gp:id":24549820,
         "hasc:id":"PW.NP",
         "iso:id":"PW-224",
-        "qs:id":219955,
+        "qs_pg:id":219955,
         "unlc:id":"PW-224",
         "wd:id":"Q430385",
         "wk:page":"Ngatpang"
@@ -268,11 +269,10 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1565733754,
+    "wof:lastmodified":1566609226,
     "wof:name":"Ngatpang",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":464,
     "wof:population_rank":2,

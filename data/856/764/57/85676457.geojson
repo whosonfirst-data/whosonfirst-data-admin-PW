@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":3.041115,
     "lbl:longitude":131.161674,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.041115,
     "mps:longitude":131.161674,
     "mz:hierarchy_label":1,
@@ -149,9 +150,6 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0442\u043e\u0445\u043e\u0431\u0435\u0439"
     ],
-    "name:unk_x_variant":[
-        "Tobi"
-    ],
     "name:urd_x_preferred":[
         "\u06c1\u0627\u062a\u0648\u0628\u0648\u0628\u0626\u06cc"
     ],
@@ -230,9 +228,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-01",
+    "src:population_date":"2005-04-01",
     "statoids:area_km":"3",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2005-04-01",
@@ -247,7 +245,6 @@
     "statoids:type":"state",
     "unlc:subdivision":"PW-050",
     "wd:wordcount":701,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632331
@@ -259,7 +256,7 @@
         "gp:id":24549812,
         "hasc:id":"PW.HA",
         "iso:id":"PW-050",
-        "qs:id":59674,
+        "qs_pg:id":59674,
         "unlc:id":"PW-050",
         "wd:id":"Q3516752",
         "wk:page":"Hatohobei"
@@ -282,11 +279,10 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1565733753,
+    "wof:lastmodified":1566609226,
     "wof:name":"Hatobohei",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":44,
     "wof:population_rank":1,

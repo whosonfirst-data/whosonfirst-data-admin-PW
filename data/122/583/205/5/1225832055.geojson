@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"134.58375,7.43304,134.62375,7.47304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngarakesou",
         "Ngarakosou",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1225832055,
-    "wof:lastmodified":1537683190,
+    "wof:lastmodified":1566609238,
     "wof:name":"Ngerngesang Hamlet",
     "wof:parent_id":85676493,
     "wof:placetype":"locality",

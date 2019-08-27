@@ -11,11 +11,14 @@
     "geom:longitude":134.635,
     "gn:country":"PW",
     "gn:fcode":"RGN",
-    "gn:pop":391,
+    "gn:population":391,
     "iso:country":"PW",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Babeldaob East - Melekeok State",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -28,7 +31,7 @@
     "wof:concordances":{
         "gn:id":7701420,
         "gp:id":29389597,
-        "qs:id":697878
+        "qs_pg:id":697878
     },
     "wof:country":"PW",
     "wof:created":1469052572,
@@ -40,7 +43,7 @@
         }
     ],
     "wof:id":890446937,
-    "wof:lastmodified":1505343614,
+    "wof:lastmodified":1566609233,
     "wof:name":"Babeldaob East - Melekeok State",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,11 +11,14 @@
     "geom:longitude":134.626,
     "gn:country":"PW",
     "gn:fcode":"RGN",
-    "gn:pop":581,
+    "gn:population":581,
     "iso:country":"PW",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Babeldaob NorthEast - Ngaraard State",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -30,7 +33,7 @@
     "wof:concordances":{
         "gn:id":7701397,
         "gp:id":29389631,
-        "qs:id":697874
+        "qs_pg:id":697874
     },
     "wof:country":"PW",
     "wof:created":1469051217,
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":890417711,
-    "wof:lastmodified":1505343440,
+    "wof:lastmodified":1566609234,
     "wof:name":"Babeldaob NorthEast - Ngaraard State",
     "wof:parent_id":85676475,
     "wof:placetype":"locality",

@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":8.074086,
     "lbl:longitude":134.709152,
+    "lbl:min_zoom":8.0,
     "mps:latitude":8.074086,
     "mps:longitude":134.709152,
     "mz:hierarchy_label":1,
@@ -137,7 +138,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u044f\u043d\u0433\u0435\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ngcheangel Municipality"
     ],
     "name:urd_x_preferred":[
@@ -218,9 +219,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-01",
+    "src:population_date":"2005-04-01",
     "statoids:area_km":"3",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2005-04-01",
@@ -235,7 +236,6 @@
     "statoids:type":"state",
     "unlc:subdivision":"PW-100",
     "wd:wordcount":1228,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632331
@@ -247,7 +247,7 @@
         "gp:id":24549826,
         "hasc:id":"PW.KA",
         "iso:id":"PW-100",
-        "qs:id":507420,
+        "qs_pg:id":507420,
         "unlc:id":"PW-100",
         "wd:id":"Q871222",
         "wk:page":"Kayangel"
@@ -270,11 +270,10 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1565733753,
+    "wof:lastmodified":1566609225,
     "wof:name":"Kayangel",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":188,
     "wof:population_rank":1,

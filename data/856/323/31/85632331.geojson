@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":7.497679,
     "lbl:longitude":134.581978,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":7.497679,
     "mps:longitude":134.581978,
     "mz:hierarchy_label":1,
@@ -824,7 +826,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"680",
     "statoids:ds":"",
@@ -844,7 +846,6 @@
     "wd:longitude":134.55,
     "wd:population":20918,
     "wd:wordcount":5188,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583
     ],
@@ -869,7 +870,7 @@
         "mzb:id":"palau",
         "ne:adm0_a3":"PLW",
         "nyt:id":"50563825160725463041",
-        "qs:id":224793,
+        "qs_pg:id":224793,
         "wd:id":"Q695",
         "wk:page":"Palau"
     },
@@ -891,7 +892,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1565733755,
+    "wof:lastmodified":1566609228,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

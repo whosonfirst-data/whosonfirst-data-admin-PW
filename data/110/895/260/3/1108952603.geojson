@@ -12,9 +12,12 @@
     "iso:country":"PW",
     "lbl:latitude":7.500314,
     "lbl:longitude":134.624045,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Ngerulmud"
     ],
@@ -239,7 +242,7 @@
         }
     ],
     "wof:id":1108952603,
-    "wof:lastmodified":1564222882,
+    "wof:lastmodified":1566609232,
     "wof:name":"Ngerulmud",
     "wof:parent_id":85676471,
     "wof:placetype":"locality",

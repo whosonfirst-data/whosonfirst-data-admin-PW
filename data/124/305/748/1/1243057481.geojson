@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"134.61672,7.67887,134.65672,7.71887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gabel",
         "Ngabiul",
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243057481,
-    "wof:lastmodified":1537683193,
+    "wof:lastmodified":1566609236,
     "wof:name":"Ngebei Hamlet",
     "wof:parent_id":85676479,
     "wof:placetype":"locality",
