@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":7.398372,
     "lbl:longitude":134.572139,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.398372,
     "mps:longitude":134.572139,
     "mz:hierarchy_label":1,
@@ -151,7 +152,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0456\u0440\u0430\u0457"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Eye Rye"
     ],
     "name:urd_x_preferred":[
@@ -232,9 +233,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-01",
+    "src:population_date":"2005-04-01",
     "statoids:area_km":"44",
     "statoids:area_mi":"17",
     "statoids:as_of_date":"2005-04-01",
@@ -260,7 +261,7 @@
         "gp:id":24549819,
         "hasc:id":"PW.AR",
         "iso:id":"PW-004",
-        "qs:id":354722,
+        "qs_pg:id":354722,
         "unlc:id":"PW-004",
         "wd:id":"Q407967",
         "wk:page":"Airai"
@@ -283,11 +284,10 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1565733754,
+    "wof:lastmodified":1566609228,
     "wof:name":"Airai",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":2723,
     "wof:population_rank":4,

@@ -24,8 +24,12 @@
     "gn:population":188,
     "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"134.10997,6.88601,134.14997,6.92601",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0623\u0646\u063a\u0627\u0648\u0631"
     ],
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":1293106331,
-    "wof:lastmodified":1564222878,
+    "wof:lastmodified":1566609229,
     "wof:name":"Angaur State",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

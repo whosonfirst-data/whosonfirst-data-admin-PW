@@ -11,11 +11,14 @@
     "geom:longitude":134.601,
     "gn:country":"PW",
     "gn:fcode":"RGN",
-    "gn:pop":254,
+    "gn:population":254,
     "iso:country":"PW",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Babeldaob SouthEast - Ngchesar State",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7701424,
-        "qs:id":697880
+        "qs_pg:id":697880
     },
     "wof:country":"PW",
     "wof:created":1469052572,
@@ -43,7 +46,7 @@
         }
     ],
     "wof:id":890446939,
-    "wof:lastmodified":1505343614,
+    "wof:lastmodified":1566609233,
     "wof:name":"Babeldaob SouthEast - Ngchesar State",
     "wof:parent_id":85676493,
     "wof:placetype":"locality",

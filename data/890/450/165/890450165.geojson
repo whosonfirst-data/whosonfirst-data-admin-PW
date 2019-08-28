@@ -11,11 +11,14 @@
     "geom:longitude":131.1238,
     "gn:country":"PW",
     "gn:fcode":"ISL",
-    "gn:pop":44,
+    "gn:population":44,
     "iso:country":"PW",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Hatohobei"
     ],
@@ -34,7 +37,7 @@
     "name:tox_x_preferred":[
         "Hatohobei"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lord North Island"
     ],
     "qs:name":"Tobi Island",
@@ -49,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1559490,
-        "qs:id":85329,
+        "qs_pg:id":85329,
         "wd:id":"Q2456642",
         "wk:page":"Tobi (island)"
     },
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890450165,
-    "wof:lastmodified":1563271821,
+    "wof:lastmodified":1566609235,
     "wof:name":"Tobi Island",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

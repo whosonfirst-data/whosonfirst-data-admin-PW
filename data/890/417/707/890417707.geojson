@@ -11,11 +11,14 @@
     "geom:longitude":134.621,
     "gn:country":"PW",
     "gn:fcode":"RGN",
-    "gn:pop":488,
+    "gn:population":488,
     "iso:country":"PW",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Babeldaob North - Ngarchelong State",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +30,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7701366,
-        "qs:id":697873
+        "qs_pg:id":697873
     },
     "wof:country":"PW",
     "wof:created":1469051217,
@@ -39,7 +42,7 @@
         }
     ],
     "wof:id":890417707,
-    "wof:lastmodified":1505343440,
+    "wof:lastmodified":1566609234,
     "wof:name":"Babeldaob North - Ngarchelong State",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":5.303101,
     "lbl:longitude":132.220759,
+    "lbl:min_zoom":8.0,
     "mps:latitude":5.303101,
     "mps:longitude":132.220759,
     "mz:hierarchy_label":1,
@@ -148,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043e\u043d\u0441\u043e\u0440\u043e\u043b"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "State of Sonsorol"
     ],
     "name:urd_x_preferred":[
@@ -229,9 +230,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-01",
+    "src:population_date":"2005-04-01",
     "statoids:area_km":"3",
     "statoids:area_mi":"1",
     "statoids:as_of_date":"2005-04-01",
@@ -246,7 +247,6 @@
     "statoids:type":"state",
     "unlc:subdivision":"PW-370",
     "wd:wordcount":675,
-    "wof:belongs_to":[],
     "wof:belongsto":[
         102191583,
         85632331
@@ -258,7 +258,7 @@
         "gp:id":24549825,
         "hasc:id":"PW.SO",
         "iso:id":"PW-370",
-        "qs:id":59442,
+        "qs_pg:id":59442,
         "unlc:id":"PW-370",
         "wd:id":"Q866699",
         "wk:page":"Sonsorol"
@@ -281,11 +281,10 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1565733754,
+    "wof:lastmodified":1566609228,
     "wof:name":"Sonsorol",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":100,
     "wof:population_rank":1,

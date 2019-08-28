@@ -24,8 +24,12 @@
     "gn:population":132,
     "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"134.50713,7.51134,134.54713,7.55134",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Imeong Hamlet"
     ],
@@ -42,8 +46,7 @@
         "Aimeong",
         "Aimion",
         "Imeiong",
-        "A Imeungs",
-        "Imeong"
+        "A Imeungs"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1276205819,
-    "wof:lastmodified":1564222878,
+    "wof:lastmodified":1566609230,
     "wof:name":"Imeong Hamlet",
     "wof:parent_id":85676497,
     "wof:placetype":"locality",

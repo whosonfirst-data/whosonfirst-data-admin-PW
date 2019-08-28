@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"131.92901,4.63404,131.96901,4.67404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:sov_x_preferred":[
         "Puro Village"
     ],
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1326912473,
-    "wof:lastmodified":1537560558,
+    "wof:lastmodified":1566609224,
     "wof:name":"Pulo Anna Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":134.71725,
     "gn:country":"PW",
     "gn:fcode":"PPLA",
-    "gn:pop":188,
+    "gn:population":188,
     "iso:country":"PW",
+    "lbl:bbox":"134.69725,8.06228,134.73725,8.10228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0643\u0627\u064a\u0627\u0646\u063a\u064a\u0644"
     ],
@@ -140,7 +144,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7670994,
-        "qs:id":696924,
+        "qs_pg:id":696924,
         "wd:id":"Q871222",
         "wk:page":"Kayangel"
     },
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":890427535,
-    "wof:lastmodified":1563271819,
+    "wof:lastmodified":1566609234,
     "wof:name":"Kayangel",
     "wof:parent_id":85676461,
     "wof:placetype":"locality",

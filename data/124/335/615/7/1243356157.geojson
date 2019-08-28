@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"134.42693,7.33133,134.46693,7.37133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Eholl",
         "Gegol",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1243356157,
-    "wof:lastmodified":1537683188,
+    "wof:lastmodified":1566609236,
     "wof:name":"Echol Hamlet",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

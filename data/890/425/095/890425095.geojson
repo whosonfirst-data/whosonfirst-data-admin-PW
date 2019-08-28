@@ -11,11 +11,14 @@
     "geom:longitude":134.5055,
     "gn:country":"PW",
     "gn:fcode":"RGN",
-    "gn:pop":317,
+    "gn:population":317,
     "iso:country":"PW",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"Babeldaob WestNorthWest - Ngeremlengui State",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -27,7 +30,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7732313,
-        "qs:id":698053
+        "qs_pg:id":698053
     },
     "wof:country":"PW",
     "wof:created":1469051574,
@@ -39,7 +42,7 @@
         }
     ],
     "wof:id":890425095,
-    "wof:lastmodified":1505343485,
+    "wof:lastmodified":1566609233,
     "wof:name":"Babeldaob WestNorthWest - Ngeremlengui State",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

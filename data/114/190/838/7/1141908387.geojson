@@ -10,10 +10,14 @@
     "geom:latitude":7.345226,
     "geom:longitude":134.469501,
     "iso:country":"PW",
+    "lbl:bbox":"134.449500871,7.32522635484,134.489500871,7.36522635484",
     "lbl:latitude":7.345226,
     "lbl:longitude":134.469501,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0631"
     ],
@@ -230,7 +234,7 @@
         }
     ],
     "wof:id":1141908387,
-    "wof:lastmodified":1563271826,
+    "wof:lastmodified":1566609238,
     "wof:name":"Koror",
     "wof:parent_id":85676467,
     "wof:placetype":"locality",

@@ -23,6 +23,7 @@
     ],
     "lbl:latitude":7.597274,
     "lbl:longitude":134.579941,
+    "lbl:min_zoom":8.0,
     "mps:latitude":7.597274,
     "mps:longitude":134.579941,
     "mz:hierarchy_label":1,
@@ -131,7 +132,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0433\u0430\u0440\u0434\u043c\u0430\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kaslan"
     ],
     "name:urd_x_preferred":[
@@ -212,9 +213,9 @@
     "qs:source":"Natural Earth",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2005-04-01",
+    "src:population_date":"2005-04-01",
     "statoids:area_km":"47",
     "statoids:area_mi":"18",
     "statoids:as_of_date":"2005-04-01",
@@ -240,7 +241,7 @@
         "gp:id":24549816,
         "hasc:id":"PW.NM",
         "iso:id":"PW-222",
-        "qs:id":59677,
+        "qs_pg:id":59677,
         "unlc:id":"PW-222",
         "wd:id":"Q1144496",
         "wk:page":"Ngardmau"
@@ -263,11 +264,10 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1565733754,
+    "wof:lastmodified":1566609228,
     "wof:name":"Ngardmau",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"state",
     "wof:population":166,
     "wof:population_rank":1,

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"134.50965,7.33987,134.54965,7.37987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ngorsum",
         "Ngarsung",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276765817,
-    "wof:lastmodified":1537683194,
+    "wof:lastmodified":1566609230,
     "wof:name":"Ngerusar Hamlet",
     "wof:parent_id":85676449,
     "wof:placetype":"locality",
