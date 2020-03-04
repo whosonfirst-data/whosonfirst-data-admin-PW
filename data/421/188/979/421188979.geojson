@@ -241,6 +241,9 @@
     },
     "wof:country":"PW",
     "wof:created":1459009595,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"6d73b12fa4715dbeec32b2245b3d7e86",
     "wof:hierarchy":[
         {
@@ -249,7 +252,7 @@
         }
     ],
     "wof:id":421188979,
-    "wof:lastmodified":1566609232,
+    "wof:lastmodified":1582359969,
     "wof:name":"Koror",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

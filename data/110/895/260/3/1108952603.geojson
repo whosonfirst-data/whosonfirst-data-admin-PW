@@ -232,6 +232,9 @@
     "wof:capital_of":85632331,
     "wof:concordances":{},
     "wof:country":"PW",
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"cdac23e455a51118c19d613ff978ebfc",
     "wof:hierarchy":[
         {
@@ -242,7 +245,7 @@
         }
     ],
     "wof:id":1108952603,
-    "wof:lastmodified":1566609232,
+    "wof:lastmodified":1582359969,
     "wof:name":"Ngerulmud",
     "wof:parent_id":85676471,
     "wof:placetype":"locality",

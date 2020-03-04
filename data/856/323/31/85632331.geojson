@@ -876,6 +876,10 @@
     },
     "wof:country":"PW",
     "wof:country_alpha3":"PLW",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"ed313f141b085519b37e8572d7c7c3ad",
     "wof:hierarchy":[
         {
@@ -892,7 +896,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1566609228,
+    "wof:lastmodified":1582359969,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
