@@ -855,9 +855,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Palau",
-        "digitalenvoy:country_code":[
-            585
-        ],
+        "digitalenvoy:country_code":585,
         "fb:id":"en.palau",
         "fifa:id":"PLW",
         "fips:code":"PS",
@@ -899,7 +897,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1583529209,
+    "wof:lastmodified":1583797417,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
