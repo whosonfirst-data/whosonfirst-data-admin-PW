@@ -29,6 +29,9 @@
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041c\u0435\u043b\u0435\u043a\u0435\u043e\u043a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09c7\u09b2\u09c7\u0995\u09c7\u0993\u0995"
+    ],
     "name:bul_x_preferred":[
         "\u041c\u0435\u043b\u0435\u043a\u0435\u043e\u043a"
     ],
@@ -80,7 +83,16 @@
     "name:glg_x_preferred":[
         "Melekeok"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05d9\u05d9\u05d7\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0947\u0932\u0947\u0915\u093f\u092f\u094b\u0915"
+    ],
     "name:hrv_x_preferred":[
+        "Melekeok"
+    ],
+    "name:hun_x_preferred":[
         "Melekeok"
     ],
     "name:ile_x_preferred":[
@@ -182,6 +194,9 @@
     "name:ukr_x_preferred":[
         "\u041c\u0435\u043b\u0435\u043a\u0435\u043e\u043a"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0644\u06cc\u06a9\u0648\u06a9"
+    ],
     "name:vie_x_preferred":[
         "Melekeok"
     ],
@@ -236,7 +251,7 @@
         }
     ],
     "wof:id":421178129,
-    "wof:lastmodified":1566609233,
+    "wof:lastmodified":1636503081,
     "wof:name":"Melekeok",
     "wof:parent_id":85676493,
     "wof:placetype":"locality",

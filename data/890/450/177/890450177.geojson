@@ -64,6 +64,9 @@
     "name:hin_x_preferred":[
         "\u0905\u0902\u0917\u094c\u0930"
     ],
+    "name:hun_x_preferred":[
+        "Angaur"
+    ],
     "name:ind_x_preferred":[
         "Angaur"
     ],
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":890450177,
-    "wof:lastmodified":1566609235,
+    "wof:lastmodified":1636503082,
     "wof:name":"Angaur",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

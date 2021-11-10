@@ -55,8 +55,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0ac7\u0ab2\u0ac7\u0ab2\u0ac1"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05dc\u05d9\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0947\u0932\u0947\u0932\u093f\u090a"
+    ],
+    "name:hun_x_preferred":[
+        "Peleliu"
     ],
     "name:hye_x_preferred":[
         "\u054a\u0565\u056c\u0565\u056c\u056b\u0578\u0582"
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":890450167,
-    "wof:lastmodified":1566609234,
+    "wof:lastmodified":1636503082,
     "wof:name":"Peleliu",
     "wof:parent_id":85676507,
     "wof:placetype":"locality",
