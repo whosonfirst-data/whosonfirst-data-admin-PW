@@ -114,6 +114,9 @@
     "name:msa_x_preferred":[
         "Hatohobei"
     ],
+    "name:nan_x_preferred":[
+        "Hatohobei Chiu"
+    ],
     "name:nld_x_preferred":[
         "Hatohobei"
     ],
@@ -285,7 +288,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1636503078,
+    "wof:lastmodified":1690856929,
     "wof:name":"Hatobohei",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

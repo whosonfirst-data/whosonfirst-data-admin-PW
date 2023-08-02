@@ -107,6 +107,9 @@
     "name:msa_x_preferred":[
         "Ngeremlengui"
     ],
+    "name:nan_x_preferred":[
+        "Ngeremlengui Chiu"
+    ],
     "name:nld_x_preferred":[
         "Ngeremlengui"
     ],
@@ -274,7 +277,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1636503080,
+    "wof:lastmodified":1690856931,
     "wof:name":"Ngeremlengui",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

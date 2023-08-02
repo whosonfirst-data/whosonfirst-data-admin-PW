@@ -20,16 +20,31 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u0631\u0648\u0631"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0648\u0631\u0648\u0631"
+    ],
+    "name:ast_x_preferred":[
+        "Koror"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u043e\u0440\u0430\u0440"
     ],
+    "name:bel_x_variant":[
+        "\u041a\u043e\u0440\u0430\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09b0\u09cb\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u0440"
     ],
     "name:cat_x_preferred":[
         "Koror"
     ],
     "name:ceb_x_preferred":[
+        "Koror"
+    ],
+    "name:ces_x_preferred":[
         "Koror"
     ],
     "name:dan_x_preferred":[
@@ -74,6 +89,9 @@
     "name:hun_x_preferred":[
         "Koror"
     ],
+    "name:hye_x_preferred":[
+        "\u0554\u0578\u0580\u0578\u0580"
+    ],
     "name:ind_x_preferred":[
         "Koror"
     ],
@@ -92,10 +110,19 @@
     "name:kor_x_preferred":[
         "\ucf54\ub85c\ub974 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\ub85c\ub974"
+    ],
     "name:lit_x_preferred":[
         "Kororas"
     ],
     "name:msa_x_preferred":[
+        "Koror"
+    ],
+    "name:nah_x_preferred":[
+        "Koror"
+    ],
+    "name:nau_x_preferred":[
         "Koror"
     ],
     "name:nld_x_preferred":[
@@ -107,6 +134,9 @@
     "name:por_x_preferred":[
         "Koror"
     ],
+    "name:ron_x_preferred":[
+        "Koror"
+    ],
     "name:rus_x_preferred":[
         "\u041a\u043e\u0440\u043e\u0440"
     ],
@@ -115,6 +145,9 @@
     ],
     "name:swe_x_preferred":[
         "Koror"
+    ],
+    "name:szl_x_preferred":[
+        "Koror City"
     ],
     "name:tha_x_preferred":[
         "\u0e04\u0e2d\u0e23\u0e2d\u0e23\u0e4c"
@@ -135,6 +168,9 @@
         "Koror"
     ],
     "name:vie_x_preferred":[
+        "Koror"
+    ],
+    "name:war_x_preferred":[
         "Koror"
     ],
     "name:zho_x_preferred":[
@@ -276,7 +312,7 @@
         }
     ],
     "wof:id":421188979,
-    "wof:lastmodified":1636503081,
+    "wof:lastmodified":1690856934,
     "wof:name":"Koror",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
