@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0648\u0644\u0627\u064a\u0629 \u0628\u064a\u0644\u064a\u0644\u064a\u0648"
     ],
+    "name:bcl_x_preferred":[
+        "Peleliu"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b2\u09c7\u09b2\u09bf\u0989"
     ],
@@ -29,6 +32,9 @@
         "Peleliu"
     ],
     "name:ceb_x_preferred":[
+        "Peleliu"
+    ],
+    "name:ces_x_preferred":[
         "Peleliu"
     ],
     "name:dan_x_preferred":[
@@ -45,6 +51,9 @@
     ],
     "name:epo_x_preferred":[
         "Peleliu"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u06cc\u0644\u06cc\u0648"
     ],
     "name:fin_x_preferred":[
         "Peleliu"
@@ -191,7 +200,7 @@
         }
     ],
     "wof:id":890450167,
-    "wof:lastmodified":1636503082,
+    "wof:lastmodified":1690856935,
     "wof:name":"Peleliu",
     "wof:parent_id":85676507,
     "wof:placetype":"locality",

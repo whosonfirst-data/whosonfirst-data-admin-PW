@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":10.0,
     "mz:min_zoom":5.0,
+    "name:abk_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0443"
+    ],
     "name:ace_x_preferred":[
         "Palau"
     ],
@@ -46,11 +49,23 @@
     "name:amh_x_variant":[
         "\u1353\u120b\u12cd"
     ],
+    "name:ami_x_preferred":[
+        "Palau"
+    ],
+    "name:ang_x_preferred":[
+        "Palau"
+    ],
+    "name:anp_x_preferred":[
+        "\u092a\u093e\u0932\u093e\u0909"
+    ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0648"
     ],
     "name:arg_x_preferred":[
         "Palau"
+    ],
+    "name:ary_x_preferred":[
+        "\u067e\u0627\u0644\u0627\u0648\u0633"
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0644\u0627\u0648"
@@ -60,6 +75,9 @@
     ],
     "name:ast_x_variant":[
         "Pal\u00e1u"
+    ],
+    "name:avk_x_preferred":[
+        "Belaua"
     ],
     "name:azb_x_preferred":[
         "\u067e\u0627\u0644\u0627\u0648"
@@ -76,6 +94,9 @@
     "name:bam_x_preferred":[
         "Palawu"
     ],
+    "name:ban_x_preferred":[
+        "Palau"
+    ],
     "name:bar_x_preferred":[
         "Palau"
     ],
@@ -90,6 +111,9 @@
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09be\u0989"
+    ],
+    "name:bis_x_preferred":[
+        "Palau"
     ],
     "name:bjn_x_preferred":[
         "Palau"
@@ -130,14 +154,23 @@
     "name:che_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
     ],
+    "name:chr_x_preferred":[
+        "\u13c6\u13b4\u13a0\u13eb"
+    ],
     "name:chv_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
+    ],
+    "name:chy_x_preferred":[
+        "Palau"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u0627\u0644\u0627\u0648"
     ],
     "name:cor_x_preferred":[
         "Palau"
+    ],
+    "name:cos_x_preferred":[
+        "Pelau"
     ],
     "name:crh_x_preferred":[
         "Palau"
@@ -146,6 +179,9 @@
         "Palaw"
     ],
     "name:cym_x_variant":[
+        "Palau"
+    ],
+    "name:dag_x_preferred":[
         "Palau"
     ],
     "name:dan_x_preferred":[
@@ -219,6 +255,9 @@
     "name:frp_x_preferred":[
         "Palaos"
     ],
+    "name:frr_x_preferred":[
+        "Paalau"
+    ],
     "name:fry_x_preferred":[
         "Palau"
     ],
@@ -227,6 +266,9 @@
     ],
     "name:gag_x_preferred":[
         "Palau"
+    ],
+    "name:gcr_x_preferred":[
+        "Palaos"
     ],
     "name:ger_x_variant":[
         "Palauinseln",
@@ -249,6 +291,9 @@
     ],
     "name:gom_x_preferred":[
         "\u092a\u0932\u093e\u090a"
+    ],
+    "name:gpe_x_preferred":[
+        "Palau"
     ],
     "name:grn_x_preferred":[
         "Pal\u00e1u"
@@ -313,6 +358,9 @@
     "name:ind_x_preferred":[
         "Palau"
     ],
+    "name:inh_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0443"
+    ],
     "name:isl_x_preferred":[
         "Pal\u00e1"
     ],
@@ -350,6 +398,9 @@
     "name:kaz_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b"
     ],
+    "name:kcg_x_preferred":[
+        "Pa\u0331la\u0331u"
+    ],
     "name:khm_x_preferred":[
         "\u1794\u17c9\u17b6\u17a1\u17b6\u179c"
     ],
@@ -365,6 +416,9 @@
     "name:kor_x_preferred":[
         "\ud314\ub77c\uc6b0"
     ],
+    "name:krj_x_preferred":[
+        "Kapalauhan"
+    ],
     "name:ksh_x_preferred":[
         "Palau"
     ],
@@ -376,6 +430,9 @@
     ],
     "name:lat_x_preferred":[
         "Belavia"
+    ],
+    "name:lat_x_variant":[
+        "Palau"
     ],
     "name:lav_x_preferred":[
         "Palau"
@@ -393,6 +450,9 @@
         "Palau"
     ],
     "name:lit_x_preferred":[
+        "Palau"
+    ],
+    "name:lld_x_preferred":[
         "Palau"
     ],
     "name:lmo_x_preferred":[
@@ -422,6 +482,12 @@
     "name:mar_x_variant":[
         "\u092a\u0932\u093e\u090a"
     ],
+    "name:mhr_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0443"
+    ],
+    "name:min_x_preferred":[
+        "Palau"
+    ],
     "name:mkd_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
     ],
@@ -434,8 +500,14 @@
     "name:mlt_x_variant":[
         "Palaw"
     ],
+    "name:mni_x_preferred":[
+        "\uabc4\uabe5\uabc2\uabe5\uabce"
+    ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
+    ],
+    "name:mri_x_preferred":[
+        "P\u0101rau"
     ],
     "name:mrj_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
@@ -524,8 +596,14 @@
     "name:pau_x_variant":[
         "Beluu er a Belau"
     ],
+    "name:pcd_x_preferred":[
+        "Palaos"
+    ],
     "name:pih_x_preferred":[
         "Palau"
+    ],
+    "name:pli_x_preferred":[
+        "\u092a\u0932\u093e\u090a"
     ],
     "name:pms_x_preferred":[
         "Palau (rep\u00f9blica)"
@@ -544,6 +622,9 @@
     ],
     "name:pus_x_preferred":[
         "\u067e\u0627\u0644\u0627\u0648"
+    ],
+    "name:pus_x_variant":[
+        "\u067e\u0627\u0644\u0627\u06cc\u0648"
     ],
     "name:que_x_preferred":[
         "Palaw"
@@ -566,6 +647,9 @@
     "name:sah_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
     ],
+    "name:sat_x_preferred":[
+        "\u1c6f\u1c5f\u1c5e\u1c5f\u1c63"
+    ],
     "name:scn_x_preferred":[
         "Palau (statu)"
     ],
@@ -577,6 +661,9 @@
     ],
     "name:sgs_x_preferred":[
         "Palau"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1015\u1083\u1087\u101c\u1062\u101d\u103a\u1038"
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0dbd\u0dcf\u0dc0\u0dd4"
@@ -593,7 +680,13 @@
     "name:sme_x_preferred":[
         "Palau"
     ],
+    "name:smn_x_preferred":[
+        "Palau"
+    ],
     "name:smo_x_preferred":[
+        "Palau"
+    ],
+    "name:sms_x_preferred":[
         "Palau"
     ],
     "name:sna_x_preferred":[
@@ -614,6 +707,9 @@
     "name:sqi_x_preferred":[
         "Palau"
     ],
+    "name:srd_x_preferred":[
+        "Palau"
+    ],
     "name:srp_x_preferred":[
         "\u041f\u0430\u043b\u0430\u0443"
     ],
@@ -627,6 +723,9 @@
         "Palau"
     ],
     "name:szl_x_preferred":[
+        "Palau"
+    ],
+    "name:szy_x_preferred":[
         "Palau"
     ],
     "name:tah_x_preferred":[
@@ -666,11 +765,17 @@
     "name:ton_x_preferred":[
         "Palau"
     ],
+    "name:trv_x_preferred":[
+        "Poryo"
+    ],
     "name:tuk_x_preferred":[
         "Palau"
     ],
     "name:tur_x_preferred":[
         "Palau"
+    ],
+    "name:udm_x_preferred":[
+        "\u041f\u0430\u043b\u0430\u0443"
     ],
     "name:uig_x_preferred":[
         "\u067e\u0627\u0644\u0627\u06cb"
@@ -962,7 +1067,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1617827631,
+    "wof:lastmodified":1690856934,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

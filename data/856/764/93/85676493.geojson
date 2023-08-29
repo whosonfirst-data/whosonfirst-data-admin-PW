@@ -35,6 +35,9 @@
     "name:ben_x_preferred":[
         "\u0997\u099a\u09c7\u09b8\u09be\u09b0"
     ],
+    "name:cat_x_preferred":[
+        "Ngchesar"
+    ],
     "name:dan_x_preferred":[
         "Ngchesar"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:eng_x_preferred":[
         "Ngchesar"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u06af\u0686\u0633\u0627\u0631"
     ],
     "name:fin_x_preferred":[
         "Ngchesar"
@@ -97,6 +103,9 @@
     ],
     "name:msa_x_preferred":[
         "Ngchesar"
+    ],
+    "name:nan_x_preferred":[
+        "Ngchesar Chiu"
     ],
     "name:nld_x_preferred":[
         "Ngchesar"
@@ -271,7 +280,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1636503079,
+    "wof:lastmodified":1690856930,
     "wof:name":"Ngchesar",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
