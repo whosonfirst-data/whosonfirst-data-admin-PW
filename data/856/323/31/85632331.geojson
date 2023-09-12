@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040745,
-    "geom:area_square_m":499621102.761433,
+    "geom:area_square_m":499621491.0322,
     "geom:bbox":"131.172089,2.910389,134.727081,8.092055",
     "geom:latitude":7.396121,
     "geom:longitude":134.49953,
@@ -14,6 +14,9 @@
     "iso:country":"PW",
     "itu:country_code":[
         "680"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "PW"
@@ -996,7 +999,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"680",
     "statoids:ds":"",
     "statoids:fifa":"PLW",
@@ -1051,7 +1055,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"44805317258063aaf6103c9d0050638a",
+    "wof:geomhash":"28581f692dc84775f9a70228428886fd",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -1067,12 +1071,12 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856934,
+    "wof:lastmodified":1694492105,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",
-    "wof:population":20918,
-    "wof:population_rank":7,
+    "wof:population":18008,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-pw",
     "wof:shortcode":"PW",
     "wof:superseded_by":[],
