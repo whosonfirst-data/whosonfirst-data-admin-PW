@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001086,
-    "geom:area_square_m":13290594.798908,
+    "geom:area_square_m":13290759.581379,
     "geom:bbox":"134.692525,8.050245,134.727343,8.096618",
     "geom:latitude":8.074311,
     "geom:longitude":134.709484,
@@ -261,14 +261,16 @@
         "gn:id":1559774,
         "gp:id":24549826,
         "hasc:id":"PW.KA",
+        "iso:code":"PW-100",
         "iso:id":"PW-100",
         "qs_pg:id":507420,
         "unlc:id":"PW-100",
         "wd:id":"Q871222",
         "wk:page":"Kayangel"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"7bdaf588e45715075b615bafbfd46995",
+    "wof:geomhash":"8eca44ebad8bb94a3b2d998c58d2de2b",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -285,7 +287,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856929,
+    "wof:lastmodified":1695884947,
     "wof:name":"Kayangel",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

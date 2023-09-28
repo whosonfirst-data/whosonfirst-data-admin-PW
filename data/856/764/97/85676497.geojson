@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005837,
-    "geom:area_square_m":71554415.944719,
+    "geom:area_square_m":71554712.577619,
     "geom:bbox":"134.511567,7.474026,134.619907,7.589841",
     "geom:latitude":7.539731,
     "geom:longitude":134.571044,
@@ -254,13 +254,15 @@
         "gn:id":4038068,
         "gp:id":24549817,
         "hasc:id":"PW.NL",
+        "iso:code":"PW-227",
         "iso:id":"PW-227",
         "qs_pg:id":1158428,
         "unlc:id":"PW-227",
         "wd:id":"Q975076"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"50e525c7bee9a8300fb5c09aa1f5ad0f",
+    "wof:geomhash":"1334122f1951a848811ad78afc7ad440",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -277,7 +279,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856931,
+    "wof:lastmodified":1695884947,
     "wof:name":"Ngeremlengui",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

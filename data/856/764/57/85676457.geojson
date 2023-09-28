@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002283,
-    "geom:area_square_m":28195815.777759,
+    "geom:area_square_m":28195923.849852,
     "geom:bbox":"131.131114,2.949042,131.812999,3.060289",
     "geom:latitude":3.015861,
     "geom:longitude":131.361915,
@@ -264,14 +264,16 @@
         "gn:id":1559776,
         "gp:id":24549812,
         "hasc:id":"PW.HA",
+        "iso:code":"PW-050",
         "iso:id":"PW-050",
         "qs_pg:id":59674,
         "unlc:id":"PW-050",
         "wd:id":"Q3516752",
         "wk:page":"Hatohobei"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"5cca1877c1455aac5fedd7f6d0fb32e2",
+    "wof:geomhash":"466d9202f33263537909d5b2b110856c",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -288,7 +290,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856929,
+    "wof:lastmodified":1695884947,
     "wof:name":"Hatobohei",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

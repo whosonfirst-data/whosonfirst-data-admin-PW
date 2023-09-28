@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003169,
-    "geom:area_square_m":38853426.729202,
+    "geom:area_square_m":38853527.467529,
     "geom:bbox":"134.487559,7.431996,134.580679,7.523527",
     "geom:latitude":7.477118,
     "geom:longitude":134.54555,
@@ -257,14 +257,16 @@
         "gn:id":1559532,
         "gp:id":24549820,
         "hasc:id":"PW.NP",
+        "iso:code":"PW-224",
         "iso:id":"PW-224",
         "qs_pg:id":219955,
         "unlc:id":"PW-224",
         "wd:id":"Q430385",
         "wk:page":"Ngatpang"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"93a0758d96ee6a3aef562d255dbba211",
+    "wof:geomhash":"e3b8747d857f36cc71358796ac908ec7",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -281,7 +283,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856930,
+    "wof:lastmodified":1695884947,
     "wof:name":"Ngatpang",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

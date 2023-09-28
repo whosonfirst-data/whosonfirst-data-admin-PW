@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004781,
-    "geom:area_square_m":58636525.733269,
+    "geom:area_square_m":58636303.84139,
     "geom:bbox":"134.347179,7.219143,134.527354,7.362698",
     "geom:latitude":7.2888,
     "geom:longitude":134.438135,
@@ -375,14 +375,16 @@
         "gn:id":4037892,
         "gp:id":24549822,
         "hasc:id":"PW.KO",
+        "iso:code":"PW-150",
         "iso:id":"PW-150",
         "qs_pg:id":219956,
         "unlc:id":"PW-150",
         "wd:id":"Q189426",
         "wk:page":"Koror"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"3ffbafe9bb00123f4500800ad814331e",
+    "wof:geomhash":"bc302cb539117a66339bd570087e2d54",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -399,7 +401,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856930,
+    "wof:lastmodified":1695884947,
     "wof:name":"Koror",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

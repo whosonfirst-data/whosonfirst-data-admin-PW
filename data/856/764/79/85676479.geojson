@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001095,
-    "geom:area_square_m":13412050.841658,
+    "geom:area_square_m":13412000.267628,
     "geom:bbox":"134.62143,7.684075,134.660167,7.734076",
     "geom:latitude":7.707923,
     "geom:longitude":134.639876,
@@ -255,14 +255,16 @@
         "gn:id":4038037,
         "gp:id":24549813,
         "hasc:id":"PW.NC",
+        "iso:code":"PW-218",
         "iso:id":"PW-218",
         "qs_pg:id":59675,
         "unlc:id":"PW-218",
         "wd:id":"Q1070185",
         "wk:page":"Ngarchelong"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"45228ea0dfd705067fa7ee26f60282a9",
+    "wof:geomhash":"1cbecd004586950d20b5641cdf419115",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -279,7 +281,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856932,
+    "wof:lastmodified":1695884947,
     "wof:name":"Ngarchelong",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

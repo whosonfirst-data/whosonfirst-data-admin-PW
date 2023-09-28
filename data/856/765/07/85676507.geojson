@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00182,
-    "geom:area_square_m":22338889.146996,
+    "geom:area_square_m":22338506.10273,
     "geom:bbox":"134.230479,6.98432,134.285004,7.07453",
     "geom:latitude":7.031387,
     "geom:longitude":134.260187,
@@ -282,13 +282,15 @@
         "gn:id":4038261,
         "gp:id":24549823,
         "hasc:id":"PW.PE",
+        "iso:code":"PW-350",
         "iso:id":"PW-350",
         "qs_pg:id":1086121,
         "unlc:id":"PW-350",
         "wd:id":"Q497981"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"66f8a1ca2cdc64939a700458252a844e",
+    "wof:geomhash":"5673c13b07de3c77fe2894e1d18567c2",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -305,7 +307,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856933,
+    "wof:lastmodified":1695884947,
     "wof:name":"Peleliu",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

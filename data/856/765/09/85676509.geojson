@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000116,
-    "geom:area_square_m":1424076.118628,
+    "geom:area_square_m":1424086.316233,
     "geom:bbox":"132.213878,5.292222,132.226736,5.310248",
     "geom:latitude":5.302731,
     "geom:longitude":132.22032,
@@ -272,14 +272,16 @@
         "gn:id":1559630,
         "gp:id":24549825,
         "hasc:id":"PW.SO",
+        "iso:code":"PW-370",
         "iso:id":"PW-370",
         "qs_pg:id":59442,
         "unlc:id":"PW-370",
         "wd:id":"Q866699",
         "wk:page":"Sonsorol"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"ff3a9621cfc41b943b35f9d7a5bf99d6",
+    "wof:geomhash":"419a2a84c34ac69a4ce43480f58c23f4",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -296,7 +298,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856933,
+    "wof:lastmodified":1695884947,
     "wof:name":"Sonsorol",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
