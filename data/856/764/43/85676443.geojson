@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00361,
-    "geom:area_square_m":44266740.548151,
+    "geom:area_square_m":44266277.162003,
     "geom:bbox":"134.482921,7.397439,134.565735,7.47029",
     "geom:latitude":7.437434,
     "geom:longitude":134.52326,
@@ -278,14 +278,16 @@
         "gn:id":1559964,
         "gp:id":24549821,
         "hasc:id":"PW.AM",
+        "iso:code":"PW-002",
         "iso:id":"PW-002",
         "qs_pg:id":59679,
         "unlc:id":"PW-002",
         "wd:id":"Q405589",
         "wk:page":"Aimeliik"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"d5dac4518fa6547668eda938d0102ddd",
+    "wof:geomhash":"8899d504565473af78d31d18827db38d",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -302,7 +304,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856931,
+    "wof:lastmodified":1695884947,
     "wof:name":"Aimeliik",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

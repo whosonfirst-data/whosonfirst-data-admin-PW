@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003973,
-    "geom:area_square_m":48721328.638075,
+    "geom:area_square_m":48721592.068089,
     "geom:bbox":"134.510531,7.355699,134.601085,7.431996",
     "geom:latitude":7.391894,
     "geom:longitude":134.560134,
@@ -275,14 +275,16 @@
         "gn:id":4037645,
         "gp:id":24549819,
         "hasc:id":"PW.AR",
+        "iso:code":"PW-004",
         "iso:id":"PW-004",
         "qs_pg:id":354722,
         "unlc:id":"PW-004",
         "wd:id":"Q407967",
         "wk:page":"Airai"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"495baa27f97f47fbeeccfe2ea7286fba",
+    "wof:geomhash":"0cb21ca00818bbac5e3be04259c20e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -299,7 +301,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856932,
+    "wof:lastmodified":1695884947,
     "wof:name":"Airai",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

@@ -1038,6 +1038,7 @@
         "hasc:id":"PW",
         "icao:code":"T8A",
         "ioc:id":"PLW",
+        "iso:code":"PW",
         "itu:id":"PLW",
         "m49:code":"585",
         "marc:id":"pw",
@@ -1049,6 +1050,7 @@
         "wd:id":"Q695",
         "wk:page":"Palau"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
     "wof:country_alpha3":"PLW",
     "wof:geom_alt":[
@@ -1071,7 +1073,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1694639558,
+    "wof:lastmodified":1695881217,
     "wof:name":"Palau",
     "wof:parent_id":102191583,
     "wof:placetype":"country",

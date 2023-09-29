@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002588,
-    "geom:area_square_m":31729057.411595,
+    "geom:area_square_m":31729533.049375,
     "geom:bbox":"134.565735,7.421129,134.628194,7.51232",
     "geom:latitude":7.464335,
     "geom:longitude":134.595178,
@@ -257,13 +257,15 @@
         "gn:id":4037976,
         "gp:id":24549827,
         "hasc:id":"PW.NS",
+        "iso:code":"PW-226",
         "iso:id":"PW-226",
         "qs_pg:id":219957,
         "unlc:id":"PW-226",
         "wd:id":"Q1070180"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"4151ed34a22aa7bd0dfc4e4f896464ec",
+    "wof:geomhash":"3357ebf729d2d3523a84199fbf416396",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -280,7 +282,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856930,
+    "wof:lastmodified":1695884947,
     "wof:name":"Ngchesar",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

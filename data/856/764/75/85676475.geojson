@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002573,
-    "geom:area_square_m":31527909.097702,
+    "geom:area_square_m":31527803.571373,
     "geom:bbox":"134.622949,7.591051,134.663341,7.686021",
     "geom:latitude":7.635616,
     "geom:longitude":134.646601,
@@ -254,14 +254,16 @@
         "gn:id":4037962,
         "gp:id":24549814,
         "hasc:id":"PW.ND",
+        "iso:code":"PW-214",
         "iso:id":"PW-214",
         "qs_pg:id":59676,
         "unlc:id":"PW-214",
         "wd:id":"Q1154127",
         "wk:page":"Ngaraard"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"b06533ae12b9c4938fdb6da8d541b363",
+    "wof:geomhash":"11123788c51e66f8734dbda7046311a9",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -278,7 +280,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856931,
+    "wof:lastmodified":1695884947,
     "wof:name":"Ngaraard",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001347,
-    "geom:area_square_m":16515377.689243,
+    "geom:area_square_m":16515247.20038,
     "geom:bbox":"134.594689,7.488036,134.635997,7.542207",
     "geom:latitude":7.512841,
     "geom:longitude":134.615312,
@@ -278,13 +278,15 @@
         "gn:id":4037930,
         "gp:id":24549818,
         "hasc:id":"PW.ME",
+        "iso:code":"PW-212",
         "iso:id":"PW-212",
         "qs_pg:id":59678,
         "unlc:id":"PW-212",
         "wd:id":"Q12898552"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"916ebbb9a1a1c59e2cd3dfd16941f42a",
+    "wof:geomhash":"a156358676fe149ca69f1ef56c627989",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -301,7 +303,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856932,
+    "wof:lastmodified":1695884947,
     "wof:name":"Melekeok",
     "wof:parent_id":85632331,
     "wof:placetype":"region",

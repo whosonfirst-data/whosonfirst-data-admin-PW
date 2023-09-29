@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001437,
-    "geom:area_square_m":17638382.3557,
+    "geom:area_square_m":17638531.291603,
     "geom:bbox":"134.136729,6.884467,134.177745,6.935004",
     "geom:latitude":6.912461,
     "geom:longitude":134.157537,
@@ -276,13 +276,15 @@
         "gn:id":4037653,
         "gp:id":24549824,
         "hasc:id":"PW.AN",
+        "iso:code":"PW-010",
         "iso:id":"PW-010",
         "qs_pg:id":49433,
         "unlc:id":"PW-010",
         "wd:id":"Q530813"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"PW",
-    "wof:geomhash":"874cd7df82c50509f6c884bb1f2c4498",
+    "wof:geomhash":"8d27e373182f72810298299ccd0c9332",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -299,7 +301,7 @@
         "pau",
         "eng"
     ],
-    "wof:lastmodified":1690856931,
+    "wof:lastmodified":1695884947,
     "wof:name":"Angaur",
     "wof:parent_id":85632331,
     "wof:placetype":"region",
