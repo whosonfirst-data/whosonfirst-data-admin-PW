@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":1559820
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            4038053
+        ]
+    },
     "wof:country":"PW",
-    "wof:geomhash":"c6790b6083f82be65021246e9f8c57a6",
+    "wof:geomhash":"3474badfaac69fdc6fb188f1a6b98b50",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,20 +58,22 @@
         }
     ],
     "wof:id":1276956695,
-    "wof:lastmodified":1566609230,
+    "wof:lastmodified":1706240622,
     "wof:name":"Ngereklmadel",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293371219
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    134.48561999999998,
+    134.48562,
     7.48826,
-    134.48561999999998,
+    134.48562,
     7.48826
 ],
-  "geometry": {"coordinates":[134.48561999999998,7.48826],"type":"Point"}
+  "geometry": {"coordinates":[134.48562000000001,7.48826],"type":"Point"}
 }
