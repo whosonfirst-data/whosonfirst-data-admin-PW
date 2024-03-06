@@ -9,7 +9,21 @@
     "geom:bbox":"134.594689,7.488036,134.635997,7.542207",
     "geom:latitude":7.512841,
     "geom:longitude":134.615312,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ngerulmud",
+    "gn:country_code":"PW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLC",
+    "gn:geonameid":8063361,
+    "gn:latitude":7.50077,
+    "gn:longitude":134.6238,
+    "gn:modification_date":"2018-07-23",
+    "gn:name":"Ngerulmud",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Palau",
     "iso:country":"PW",
+    "lbl:bbox":"134.6038,7.48077,134.6438,7.52077",
     "lbl:latitude":7.500314,
     "lbl:longitude":134.624045,
     "lbl:max_zoom":18.0,
@@ -232,7 +246,10 @@
     "wof:capital_of":[
         85632331
     ],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "gn:id":8063361,
+        "wk:page":"Ngerulmud"
+    },
     "wof:country":"PW",
     "wof:geom_alt":[
         "unknown"
@@ -247,13 +264,15 @@
         }
     ],
     "wof:id":1108952603,
-    "wof:lastmodified":1607390880,
+    "wof:lastmodified":1706240622,
     "wof:name":"Ngerulmud",
     "wof:parent_id":85676471,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309818929
+    ],
     "wof:tags":[]
 },
   "bbox": [
